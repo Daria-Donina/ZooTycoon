@@ -1,0 +1,2443 @@
+fileFormatVersion: 2
+guid: 82c654ffd0127f04eacde0e6b03cb492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3537668108228038014
+    second: Large Cat_Panther_Cougar_0
+  - first:
+      213: 6609992806397721017
+    second: Large Cat_Panther_Cougar_1
+  - first:
+      213: 2478624805365879039
+    second: Large Cat_Panther_Cougar_2
+  - first:
+      213: 7450143444746942248
+    second: Large Cat_Panther_Cougar_3
+  - first:
+      213: 2732621413347294084
+    second: Large Cat_Panther_Cougar_4
+  - first:
+      213: 7096359244899687267
+    second: Large Cat_Panther_Cougar_5
+  - first:
+      213: 4635761132954478390
+    second: Large Cat_Panther_Cougar_6
+  - first:
+      213: 7109168427020361289
+    second: Large Cat_Panther_Cougar_7
+  - first:
+      213: -7612026336623513085
+    second: Large Cat_Panther_Cougar_8
+  - first:
+      213: 6040575624508825189
+    second: Large Cat_Panther_Cougar_9
+  - first:
+      213: 8199575405057188340
+    second: Large Cat_Panther_Cougar_10
+  - first:
+      213: -5632158405987983282
+    second: Large Cat_Panther_Cougar_11
+  - first:
+      213: 2066101134821539168
+    second: Large Cat_Panther_Cougar_12
+  - first:
+      213: 1567510399012941630
+    second: Large Cat_Panther_Cougar_13
+  - first:
+      213: 5573562584552318991
+    second: Large Cat_Panther_Cougar_14
+  - first:
+      213: 6256509455231323877
+    second: Large Cat_Panther_Cougar_15
+  - first:
+      213: 1245466052549595071
+    second: Large Cat_Panther_Cougar_16
+  - first:
+      213: -6456541077699092112
+    second: Large Cat_Panther_Cougar_17
+  - first:
+      213: 444264197986506104
+    second: Large Cat_Panther_Cougar_18
+  - first:
+      213: 6833681797300702481
+    second: Large Cat_Panther_Cougar_19
+  - first:
+      213: 2766393293137830487
+    second: Large Cat_Panther_Cougar_20
+  - first:
+      213: -4750259348088629220
+    second: Large Cat_Panther_Cougar_21
+  - first:
+      213: -6217323164585149121
+    second: Large Cat_Panther_Cougar_22
+  - first:
+      213: 6825388272723579976
+    second: Large Cat_Panther_Cougar_23
+  - first:
+      213: 5208257746900188689
+    second: Large Cat_Panther_Cougar_24
+  - first:
+      213: -8285169977597445796
+    second: Large Cat_Panther_Cougar_25
+  - first:
+      213: -2946007378238630201
+    second: Large Cat_Panther_Cougar_26
+  - first:
+      213: -2119125243427489481
+    second: Large Cat_Panther_Cougar_27
+  - first:
+      213: -7951440252998475338
+    second: Large Cat_Panther_Cougar_28
+  - first:
+      213: -3988135766887892467
+    second: Large Cat_Panther_Cougar_29
+  - first:
+      213: -3001879319481339786
+    second: Large Cat_Panther_Cougar_30
+  - first:
+      213: 2224316287884689242
+    second: Large Cat_Panther_Cougar_31
+  - first:
+      213: 7313729023370177493
+    second: Large Cat_Panther_Cougar_32
+  - first:
+      213: -5255256625790994363
+    second: Large Cat_Panther_Cougar_33
+  - first:
+      213: -3814916818940084401
+    second: Large Cat_Panther_Cougar_34
+  - first:
+      213: 776492661005402671
+    second: Large Cat_Panther_Cougar_35
+  - first:
+      213: -992773414056629017
+    second: Large Cat_Panther_Cougar_36
+  - first:
+      213: -8274074634600022436
+    second: Large Cat_Panther_Cougar_37
+  - first:
+      213: -5994972498459965597
+    second: Large Cat_Panther_Cougar_38
+  - first:
+      213: -5133407349318613569
+    second: Large Cat_Panther_Cougar_39
+  - first:
+      213: 5713226426570790801
+    second: Large Cat_Panther_Cougar_40
+  - first:
+      213: -6829902043368245653
+    second: Large Cat_Panther_Cougar_41
+  - first:
+      213: -8924245419247670810
+    second: Large Cat_Panther_Cougar_42
+  - first:
+      213: -3553250203606732923
+    second: Large Cat_Panther_Cougar_43
+  - first:
+      213: 4179843037199229551
+    second: Large Cat_Panther_Cougar_44
+  - first:
+      213: -2398935110183213565
+    second: Large Cat_Panther_Cougar_45
+  - first:
+      213: -4385844879737834025
+    second: Large Cat_Panther_Cougar_46
+  - first:
+      213: 7632038257577527332
+    second: Large Cat_Panther_Cougar_47
+  - first:
+      213: -738340506210571259
+    second: Large Cat_Panther_Cougar_48
+  - first:
+      213: -3412189550830618564
+    second: Large Cat_Panther_Cougar_49
+  - first:
+      213: 4841811227335580510
+    second: Large Cat_Panther_Cougar_50
+  - first:
+      213: -6408653256642483032
+    second: Large Cat_Panther_Cougar_51
+  - first:
+      213: 5779396547652091986
+    second: Large Cat_Panther_Cougar_52
+  - first:
+      213: 1251295940297861841
+    second: Large Cat_Panther_Cougar_53
+  - first:
+      213: -2050103895917454888
+    second: Large Cat_Panther_Cougar_54
+  - first:
+      213: 1990621361942378602
+    second: Large Cat_Panther_Cougar_55
+  - first:
+      213: 3603300173069555994
+    second: Large Cat_Panther_Cougar_56
+  - first:
+      213: 8557458109876157635
+    second: Large Cat_Panther_Cougar_57
+  - first:
+      213: -6323172155593325641
+    second: Large Cat_Panther_Cougar_58
+  - first:
+      213: -2014562986773547629
+    second: Large Cat_Panther_Cougar_59
+  - first:
+      213: -3101296813923407558
+    second: Large Cat_Panther_Cougar_60
+  - first:
+      213: -8807823885795375921
+    second: Large Cat_Panther_Cougar_61
+  - first:
+      213: -8428147125191058570
+    second: Large Cat_Panther_Cougar_62
+  - first:
+      213: 7325442418679465611
+    second: Large Cat_Panther_Cougar_63
+  - first:
+      213: 3304068087865638707
+    second: Large Cat_Panther_Cougar_64
+  - first:
+      213: 4797700998408725701
+    second: Large Cat_Panther_Cougar_65
+  - first:
+      213: 9185032179250993553
+    second: Large Cat_Panther_Cougar_66
+  - first:
+      213: -4413712705446389809
+    second: Large Cat_Panther_Cougar_67
+  - first:
+      213: -3427820646070589819
+    second: Large Cat_Panther_Cougar_68
+  - first:
+      213: 2838402769154809634
+    second: Large Cat_Panther_Cougar_69
+  - first:
+      213: 3608628373327909206
+    second: Large Cat_Panther_Cougar_70
+  - first:
+      213: 848966902918901298
+    second: Large Cat_Panther_Cougar_71
+  - first:
+      213: -460981633290255620
+    second: Large Cat_Panther_Cougar_72
+  - first:
+      213: -7841085263987469423
+    second: Large Cat_Panther_Cougar_73
+  - first:
+      213: -5971582438995593993
+    second: Large Cat_Panther_Cougar_74
+  - first:
+      213: -5324005446438094559
+    second: Large Cat_Panther_Cougar_75
+  - first:
+      213: -2680318935106018719
+    second: Large Cat_Panther_Cougar_76
+  - first:
+      213: 1198823006787281593
+    second: Large Cat_Panther_Cougar_77
+  - first:
+      213: 8744138854545588051
+    second: Large Cat_Panther_Cougar_78
+  - first:
+      213: 3166651291623545348
+    second: Large Cat_Panther_Cougar_79
+  - first:
+      213: 7274141915320538690
+    second: Large Cat_Panther_Cougar_80
+  - first:
+      213: 9018712400364904614
+    second: Large Cat_Panther_Cougar_81
+  - first:
+      213: 3299593750036802420
+    second: Large Cat_Panther_Cougar_82
+  - first:
+      213: 2585772809624535626
+    second: Large Cat_Panther_Cougar_83
+  - first:
+      213: -2846691340587172294
+    second: Large Cat_Panther_Cougar_84
+  - first:
+      213: -5274424130269335973
+    second: Large Cat_Panther_Cougar_85
+  - first:
+      213: 6512199424558055792
+    second: Large Cat_Panther_Cougar_86
+  - first:
+      213: -7970654179228688507
+    second: Large Cat_Panther_Cougar_87
+  - first:
+      213: 3192698486446730262
+    second: Large Cat_Panther_Cougar_88
+  - first:
+      213: 8020185475993377464
+    second: Large Cat_Panther_Cougar_89
+  - first:
+      213: 6588628568629595175
+    second: Large Cat_Panther_Cougar_90
+  - first:
+      213: 1104469834236007718
+    second: Large Cat_Panther_Cougar_91
+  - first:
+      213: 7778058030348480473
+    second: Large Cat_Panther_Cougar_92
+  - first:
+      213: -1486255059775746689
+    second: Large Cat_Panther_Cougar_93
+  - first:
+      213: 7547186808024359785
+    second: Large Cat_Panther_Cougar_94
+  - first:
+      213: -262602670190093776
+    second: Large Cat_Panther_Cougar_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 336
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c1d58571b4b442b8d8143a4b4a4b0
+      internalID: 3537668108228038014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 337
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d0a82a97af094d9c2444d127f357d
+      internalID: 6609992806397721017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 336
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c99a5861b425140b760807cad14828
+      internalID: 2478624805365879039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 336
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271c7b5d3b325647a87529fdee5f8a9
+      internalID: 7450143444746942248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 337
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b7bb429db0d44a81f6d2b1ec40587
+      internalID: 2732621413347294084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 336
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba50bff3c9fa94ba321ed415371e32
+      internalID: 7096359244899687267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 336
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b955afe325aac4b4aae919083de98f20
+      internalID: 4635761132954478390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 337
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e150089b88bcf9f4dbdd8e3cbf356a03
+      internalID: 7109168427020361289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 336
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cbeaef6a5a52e4e9696b9de14d1cd4
+      internalID: -7612026336623513085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 336
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4ecd0629d5a34b891182afc6a1595
+      internalID: 6040575624508825189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 337
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd36d2ced29f57438e49a21939c58d7
+      internalID: 8199575405057188340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 336
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e414f2df5c225f429063936341742e4
+      internalID: -5632158405987983282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053ad760f851fa4f99a366825f58df5
+      internalID: 2066101134821539168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a82494d71206488178e83a4d0fd01
+      internalID: 1567510399012941630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a70246bc1aa043933e0c85c5d2aea
+      internalID: 5573562584552318991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5897e3bb300642a2c2427d59ce961
+      internalID: 6256509455231323877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0056fc763903149a99b40b27d29991
+      internalID: 1245466052549595071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bae22c6b9733343bbb1b8b01badabd
+      internalID: -6456541077699092112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2964aaf74904e64cb7ad5c1263e6383
+      internalID: 444264197986506104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49da5ededf0890409784d9cb4e52981
+      internalID: 6833681797300702481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069132f5786899b489ead4319d47ec8c
+      internalID: 2766393293137830487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef303fc9157a34f955499283eb6a09
+      internalID: -4750259348088629220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67326c4b2cad8cf48acc02a5e30e98ae
+      internalID: -6217323164585149121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0078d21fa628545bce12cb318587cf
+      internalID: 6825388272723579976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43072ca44e3cdf84aa543a9def371d29
+      internalID: 5208257746900188689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dfc454242d6144eb73c0eda1af1d5a
+      internalID: -8285169977597445796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bedecb3354bfc5468aa5f97b1e6c4c8
+      internalID: -2946007378238630201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 240
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d3aa5666a56a84db64e4d9e7957212
+      internalID: -2119125243427489481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a650ac411c9bae4ab99a8b71179febe
+      internalID: -7951440252998475338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014873d41524ba8418f9ccca05f91e95
+      internalID: -3988135766887892467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 240
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665bf83458cc9a4d8dab4e96022e1de
+      internalID: -3001879319481339786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 240
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c2f6ab2677098439dc8394e1f8c118
+      internalID: 2224316287884689242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 240
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280939326f8dcf642a647f3ae8d90033
+      internalID: 7313729023370177493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 240
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0d7591281db94f8914862d8a5c411
+      internalID: -5255256625790994363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5b2aaf2ee5d844be638a2ae84ec25
+      internalID: -3814916818940084401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 240
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9598b3255d239ea4198fe11179f0059c
+      internalID: 776492661005402671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c35b7332635ce438130d064aeeeec4
+      internalID: -992773414056629017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 193
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6124f0d028c04140b1418c87c9723ee
+      internalID: -8274074634600022436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b5fb2488734340ba698417378a389
+      internalID: -5994972498459965597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261329a3d7257734cb4dbe7661c1903c
+      internalID: -5133407349318613569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 193
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3bad1d7e6278440a99323784c721fd
+      internalID: 5713226426570790801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6772cdde7ef6ab5499980b9bc5854288
+      internalID: -6829902043368245653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1a3b5421b536c4988801269492f86d
+      internalID: -8924245419247670810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 193
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0316970364969d4291a71359066e72d
+      internalID: -3553250203606732923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_44
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76eb2f932ff8c46bb4466dd3a1bf33
+      internalID: 4179843037199229551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeabe3add1f60074f96251ad7e483a8f
+      internalID: -2398935110183213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 193
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23d32f525c7644ba0ee84561525e9d
+      internalID: -4385844879737834025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 192
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8672afd3ae39c44a4da29f0cf7e1b2
+      internalID: 7632038257577527332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5179f1fcf2bb7445a117f986a91fd09
+      internalID: -738340506210571259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 145
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3110d5bef237f4181d9b4ededecb27
+      internalID: -3412189550830618564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5de8bb270bcc043a58b4332cf21c17
+      internalID: 4841811227335580510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5349016986e9a4fb7c314746668ebc
+      internalID: -6408653256642483032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 145
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c361374836e7c409372580af17a782
+      internalID: 5779396547652091986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d5bff33c7c954285ad6e37205d464
+      internalID: 1251295940297861841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 144
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0988ae38c2eff428b3d65b52622792
+      internalID: -2050103895917454888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 145
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550a42b67dd50540830f94ce4b2e760
+      internalID: 1990621361942378602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 144
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f63f4575af744c958a306cf266905
+      internalID: 3603300173069555994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 144
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a272209bce89b24a944c1ef330fada9
+      internalID: 8557458109876157635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 145
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b2427a139dedd40be5ab060137198f
+      internalID: -6323172155593325641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b364e537ed6b4a992d240ec95b461
+      internalID: -2014562986773547629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecadba6b890ab634eb077d8bf52e93fa
+      internalID: -3101296813923407558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e8bddcb3cf07445a9e269e36b670c8
+      internalID: -8807823885795375921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b019cafd02c2e42902b2cb47cec251
+      internalID: -8428147125191058570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4232ed20e8ce62e4fbec2fde5a53c3c4
+      internalID: 7325442418679465611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f8237c882dfd84b8dc19ab0362f1aa
+      internalID: 3304068087865638707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8761692d82b9abd4d8b417ad2b4f06ec
+      internalID: 4797700998408725701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85a1ae4141cc84381779d278fe2609
+      internalID: 9185032179250993553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17a66640634aa4f9c008749013e9e6
+      internalID: -4413712705446389809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c150421c86649748b458ef580a1055c
+      internalID: -3427820646070589819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3d343807996945a58592bb9b3be7f
+      internalID: 2838402769154809634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4533e7a7fdd634594843ebbae1b728
+      internalID: 3608628373327909206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe4c84c3f2f2524ea013c9955165f55
+      internalID: 848966902918901298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a7bc4e210e0245a9f6b191da1bb70
+      internalID: -460981633290255620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b326e96ef4a04da985c5a3dc97ea8
+      internalID: -7841085263987469423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639720cdb52b03946b63c00af90d8252
+      internalID: -5971582438995593993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86090f064031d4a8bff71db9441592
+      internalID: -5324005446438094559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57ab4daeecfdb49941127d4ceaddc3
+      internalID: -2680318935106018719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113452b6b2985442aa208f0c2c6261f
+      internalID: 1198823006787281593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_78
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b376dcbc7ff03354fb681f6687e702cf
+      internalID: 8744138854545588051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917bf3201241a6f4abb21aef081f2cb9
+      internalID: 3166651291623545348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 48
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87e1a1c99e5e8a42bd3547f615dac1a
+      internalID: 7274141915320538690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_81
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 48
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b09095b84e9734e92516b508c350e5
+      internalID: 9018712400364904614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e555283b967f49ad89ecc5855e1dd
+      internalID: 3299593750036802420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_83
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 48
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07bd8e8be2055469c0143d934839e7
+      internalID: 2585772809624535626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1354102fbeae4cbe5c90e4cbea753
+      internalID: -2846691340587172294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d6b4dcde789a46b0f58a11b41077f
+      internalID: -5274424130269335973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04102501b6e27469b58e63003c7d02
+      internalID: 6512199424558055792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db0a2186df7b54b8fb14b3c99f93f8
+      internalID: -7970654179228688507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bd117743241549a04f28ed26860e1
+      internalID: 3192698486446730262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e74ec8ec555f41bc2ba6c49fd9916
+      internalID: 8020185475993377464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64398cbe765b08a4d8eb26f01337f9b7
+      internalID: 6588628568629595175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92bf850f62819e49a4c7fe364509b5c
+      internalID: 1104469834236007718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_92
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f1bfe8da9a604ea2300d247971b36
+      internalID: 7778058030348480473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ebd5f1c2b80d941b4894c6aa7b9bcd
+      internalID: -1486255059775746689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e11be7dfe6374c94986e4a4e19655
+      internalID: 7547186808024359785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Cat_Panther_Cougar_95
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c506b6b097564faff6c93b692fe5c
+      internalID: -262602670190093776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2443 @@
+fileFormatVersion: 2
+guid: 3bc86de0b0a19de42ab21a3d98836963
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4376745654473388752
+    second: Hippo_0
+  - first:
+      213: 8259445730511916717
+    second: Hippo_1
+  - first:
+      213: 4138415644133789090
+    second: Hippo_2
+  - first:
+      213: 992561517864637420
+    second: Hippo_3
+  - first:
+      213: 6780945927152934779
+    second: Hippo_4
+  - first:
+      213: 8531650149990896575
+    second: Hippo_5
+  - first:
+      213: -6348754581201908132
+    second: Hippo_6
+  - first:
+      213: -6926696641839735842
+    second: Hippo_7
+  - first:
+      213: -3017833291326742638
+    second: Hippo_8
+  - first:
+      213: -6584483443961873610
+    second: Hippo_9
+  - first:
+      213: 4168102300143215051
+    second: Hippo_10
+  - first:
+      213: 2667421350276115948
+    second: Hippo_11
+  - first:
+      213: -5738133427040873487
+    second: Hippo_12
+  - first:
+      213: -8703918709409437823
+    second: Hippo_13
+  - first:
+      213: 6926551401644449095
+    second: Hippo_14
+  - first:
+      213: 8683607684610921429
+    second: Hippo_15
+  - first:
+      213: -4432773999735444838
+    second: Hippo_16
+  - first:
+      213: 3796356178868238378
+    second: Hippo_17
+  - first:
+      213: -5214776361945369365
+    second: Hippo_18
+  - first:
+      213: 710457112931339493
+    second: Hippo_19
+  - first:
+      213: -2574631696885180392
+    second: Hippo_20
+  - first:
+      213: -8736740503406956748
+    second: Hippo_21
+  - first:
+      213: 4251143753514315967
+    second: Hippo_22
+  - first:
+      213: 5474489921905536801
+    second: Hippo_23
+  - first:
+      213: -6208805457562745102
+    second: Hippo_24
+  - first:
+      213: -8224235079069267067
+    second: Hippo_25
+  - first:
+      213: -3432422320811447604
+    second: Hippo_26
+  - first:
+      213: 2792808856537728844
+    second: Hippo_27
+  - first:
+      213: -4205090686697427099
+    second: Hippo_28
+  - first:
+      213: -2360642552223867910
+    second: Hippo_29
+  - first:
+      213: 8122202505048249923
+    second: Hippo_30
+  - first:
+      213: 6340539227668371533
+    second: Hippo_31
+  - first:
+      213: -5404382006992413883
+    second: Hippo_32
+  - first:
+      213: -2754347168654049350
+    second: Hippo_33
+  - first:
+      213: 4680897474729964712
+    second: Hippo_34
+  - first:
+      213: -3909908856600545097
+    second: Hippo_35
+  - first:
+      213: 8171798946130800067
+    second: Hippo_36
+  - first:
+      213: 5283689702324252087
+    second: Hippo_37
+  - first:
+      213: 7228663737912544404
+    second: Hippo_38
+  - first:
+      213: 2695757355807511441
+    second: Hippo_39
+  - first:
+      213: 1295666592080504556
+    second: Hippo_40
+  - first:
+      213: -2777063858437277666
+    second: Hippo_41
+  - first:
+      213: 8398178821901809888
+    second: Hippo_42
+  - first:
+      213: 5049257819353358368
+    second: Hippo_43
+  - first:
+      213: 4298760939538948671
+    second: Hippo_44
+  - first:
+      213: 2161329112634490694
+    second: Hippo_45
+  - first:
+      213: -7108106276529897760
+    second: Hippo_46
+  - first:
+      213: 144934083981592095
+    second: Hippo_47
+  - first:
+      213: 64669674853252814
+    second: Hippo_48
+  - first:
+      213: -5663622308443970408
+    second: Hippo_49
+  - first:
+      213: 5381914971194920735
+    second: Hippo_50
+  - first:
+      213: 7173650755821538865
+    second: Hippo_51
+  - first:
+      213: -4812119321826414076
+    second: Hippo_52
+  - first:
+      213: -1584283103209271351
+    second: Hippo_53
+  - first:
+      213: -4989421872380206319
+    second: Hippo_54
+  - first:
+      213: -2182596992843051169
+    second: Hippo_55
+  - first:
+      213: -4064836430600858734
+    second: Hippo_56
+  - first:
+      213: -4012957380755642485
+    second: Hippo_57
+  - first:
+      213: 5258658084792070955
+    second: Hippo_58
+  - first:
+      213: -5824788812326560104
+    second: Hippo_59
+  - first:
+      213: 2062450283713574593
+    second: Hippo_60
+  - first:
+      213: -188776276360362241
+    second: Hippo_61
+  - first:
+      213: 3212157921026504339
+    second: Hippo_62
+  - first:
+      213: 6793560873160389845
+    second: Hippo_63
+  - first:
+      213: -5804098824521668238
+    second: Hippo_64
+  - first:
+      213: -730910721553111398
+    second: Hippo_65
+  - first:
+      213: 8878618605775258798
+    second: Hippo_66
+  - first:
+      213: -495939520864959390
+    second: Hippo_67
+  - first:
+      213: -2053802373135613
+    second: Hippo_68
+  - first:
+      213: -649696856258019791
+    second: Hippo_69
+  - first:
+      213: -727438159144586681
+    second: Hippo_70
+  - first:
+      213: -2686271730340300888
+    second: Hippo_71
+  - first:
+      213: 3966876608585013925
+    second: Hippo_72
+  - first:
+      213: -4884966192464415821
+    second: Hippo_73
+  - first:
+      213: 310535850510484170
+    second: Hippo_74
+  - first:
+      213: 2199215757231266808
+    second: Hippo_75
+  - first:
+      213: 3414015608506799490
+    second: Hippo_76
+  - first:
+      213: 5600460979917683918
+    second: Hippo_77
+  - first:
+      213: 4769351024118972448
+    second: Hippo_78
+  - first:
+      213: 2207454951661886968
+    second: Hippo_79
+  - first:
+      213: -1774550946701574668
+    second: Hippo_80
+  - first:
+      213: 3442755075407728346
+    second: Hippo_81
+  - first:
+      213: 2983204058980048675
+    second: Hippo_82
+  - first:
+      213: 8345733870799670725
+    second: Hippo_83
+  - first:
+      213: 8472665547606390775
+    second: Hippo_84
+  - first:
+      213: -7440374462476275982
+    second: Hippo_85
+  - first:
+      213: -5438483509418054350
+    second: Hippo_86
+  - first:
+      213: -3129929355726922213
+    second: Hippo_87
+  - first:
+      213: -7926846488913329316
+    second: Hippo_88
+  - first:
+      213: -1594108268028739032
+    second: Hippo_89
+  - first:
+      213: 1386371563632600204
+    second: Hippo_90
+  - first:
+      213: 3593176102135792637
+    second: Hippo_91
+  - first:
+      213: 6310363678339972230
+    second: Hippo_92
+  - first:
+      213: -5769956353239402461
+    second: Hippo_93
+  - first:
+      213: -7015219012355822929
+    second: Hippo_94
+  - first:
+      213: -2516861282765121112
+    second: Hippo_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hippo_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dde5ad75e88dd4bbdd19f0a0a807e6
+      internalID: -4376745654473388752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 336
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec951c27cc0cf842a84c3c4a3c3cbd5
+      internalID: 8259445730511916717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c18f081f093544a404b60ab1568f0
+      internalID: 4138415644133789090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18197be65f0d4f4690b98bb554ab77a
+      internalID: 992561517864637420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 336
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb66b64f8989e44a748e5f68147345
+      internalID: 6780945927152934779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723aa3b89db1eb46b31b6d12c38eb58
+      internalID: 8531650149990896575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aebcf93cb669a74d8423452ce842bb1
+      internalID: -6348754581201908132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 336
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473289ba8c700e648a467825f5e1f75e
+      internalID: -6926696641839735842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef7f2b7c3875946aac6c086a3e96dc
+      internalID: -3017833291326742638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ae665519259b438bab34a5086caa5
+      internalID: -6584483443961873610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_10
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 336
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e6dae699677e948b0815907d009519
+      internalID: 4168102300143215051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 336
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed5c73f876b0e46b83e57d49a5d1f4
+      internalID: 2667421350276115948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c556bb06619a5a41a60dcedbc2c7e05
+      internalID: -5738133427040873487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 289
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a029ae79163a4fb83ee2401a411b8
+      internalID: -8703918709409437823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a6e99a1af73f479535c3b2b94b49a
+      internalID: 6926551401644449095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253f2334f3ad87e4c8f65a78a71bb0ec
+      internalID: 8683607684610921429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 289
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48497ce8779212946885fae04735b8d2
+      internalID: -4432773999735444838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace1bd0946271a459472d54db5fdbab
+      internalID: 3796356178868238378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e71e108037d7144ab9a0a6b5ee74ed
+      internalID: -5214776361945369365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 289
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be165a1251f174b809691b1fd7613d
+      internalID: 710457112931339493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_20
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98ee28b086d024497bc417bd3ed520
+      internalID: -2574631696885180392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61c3729b2ce2fb45ba032627863ac8d
+      internalID: -8736740503406956748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_22
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 289
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e7bb27c3274fd4faac04342fc8ce43
+      internalID: 4251143753514315967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_23
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 288
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abcef71ee0168e428bd0a3ad7946270
+      internalID: 5474489921905536801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6e7449b3c4a541b7c53ae10be9864
+      internalID: -6208805457562745102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 241
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b740c30b13f115c49b051828b1580d78
+      internalID: -8224235079069267067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e081fdfe3765a41b9123a9aa365870
+      internalID: -3432422320811447604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb8bfa60289ce04c9c34e2dc9886605
+      internalID: 2792808856537728844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 241
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204ae75cd5300f4fa19882a8f9fdaaf
+      internalID: -4205090686697427099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee52bc9d14fd09e46b8542b4740be8dc
+      internalID: -2360642552223867910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879bf3eb83815ba4d8c7c8286c34bde1
+      internalID: 8122202505048249923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_31
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 241
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14bdb8fa1b18cf4795199ff410dc44a
+      internalID: 6340539227668371533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_32
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e20996dbe04a499847e08b1fe7370
+      internalID: -5404382006992413883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_33
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf8acf2e06e4a489d1f35490879ebc
+      internalID: -2754347168654049350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_34
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 241
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f02d22d69a354991f9420c06aceeb
+      internalID: 4680897474729964712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_35
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 240
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e9196c5624fb429a542d514bfbd17
+      internalID: -3909908856600545097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b110e98cef75b845a8d0b010f5ce62a
+      internalID: 8171798946130800067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8810fdb6b203747ae68788673b4e9f
+      internalID: 5283689702324252087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c10c5b790a1cf4da7b9f3e45d0688f
+      internalID: 7228663737912544404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6618e13c442b8774ca60a148c2248737
+      internalID: 2695757355807511441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed907268b2bbbf141adf620457b59f74
+      internalID: 1295666592080504556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed109f651f8d848b7dca396302247c
+      internalID: -2777063858437277666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_42
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0cd6f4e14a3a4590e9654e09dde66
+      internalID: 8398178821901809888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dfc0246ffce564e944db5817ba44d8
+      internalID: 5049257819353358368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49cddc4adbb38e4ab8cfb09cc2296dc
+      internalID: 4298760939538948671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b6c63d9253be468758807bc762df3
+      internalID: 2161329112634490694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_46
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 192
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e8b2df6b0e7e4d933f3abbbd46fa4
+      internalID: -7108106276529897760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_47
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0d7aa815d83994c933ee90c9575b45
+      internalID: 144934083981592095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a0b132d838c2418073bd3efc7a5e8
+      internalID: 64669674853252814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 144
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f4ee758170d942b202ae5fccabb97
+      internalID: -5663622308443970408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a5fed8adf487d44bd29b1256e01ce7
+      internalID: 5381914971194920735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_51
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde6a8c0832f5641a754db075e142cf
+      internalID: 7173650755821538865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 144
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd91ab05b4d8b749a8852a77207eb52
+      internalID: -4812119321826414076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c0570397c79b47bf5f02461c22cd4
+      internalID: -1584283103209271351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_54
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980832ea3fe50548bba8082594ae263
+      internalID: -4989421872380206319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_55
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 144
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26238d8f3c843e4284a6eb27991acb5
+      internalID: -2182596992843051169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_56
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a4ef3eaa7bec45a77c70364970b44
+      internalID: -4064836430600858734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_57
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f220ef9463deaf45b191629d153b0a6
+      internalID: -4012957380755642485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 144
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be68cb8c417e95642981eccd3edfce6a
+      internalID: 5258658084792070955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_59
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 144
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c8d1c8a55360429ebc496f59ef110
+      internalID: -5824788812326560104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d736ecbe195e6047a05729ace528fb7
+      internalID: 2062450283713574593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2fadec78908847a18f64dbda54417
+      internalID: -188776276360362241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_62
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f69ee67037e24e95c5efcccb98306
+      internalID: 3212157921026504339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_63
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d62d22021b5eb479b21b2855c250f6
+      internalID: 6793560873160389845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 97
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145da0f08b4794d44b23c7caa58d151f
+      internalID: -5804098824521668238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_65
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ddf5c64be2ce4faf3da08a3b8157f
+      internalID: -730910721553111398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_66
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419558eefd26cde4f945e7e9777d5a03
+      internalID: 8878618605775258798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_67
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 97
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256fd0157b92d70419ab9fda0575a76b
+      internalID: -495939520864959390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_68
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955df647f336fb442bfedcd79321af28
+      internalID: -2053802373135613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_69
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13045289ce0cd694e96608c4bf2908bb
+      internalID: -649696856258019791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_70
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 97
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16f1aeab24b834c91ce15cd60d3b47
+      internalID: -727438159144586681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_71
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 96
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7882528acfa94ba018a9bb30956f9
+      internalID: -2686271730340300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e347adca745a2d43be931c4cbf8fa14
+      internalID: 3966876608585013925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_73
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 49
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da414d7876a448947a3472813e18969b
+      internalID: -4884966192464415821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_74
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0644c4c6ac20439978afd57905172
+      internalID: 310535850510484170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e452efcf9c444388a5d56eefcc621
+      internalID: 2199215757231266808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_76
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 49
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1347f1de214e82246a3b0378dd562643
+      internalID: 3414015608506799490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b362cc379040c4b8ef4db13cdc1c03
+      internalID: 5600460979917683918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_78
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5262b29430e843848a5633086e650
+      internalID: 4769351024118972448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_79
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 49
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06f3e7b07f7044f8e70153f616793f
+      internalID: 2207454951661886968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_80
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5cbeb4b03e5f43b6d2986813efc2d
+      internalID: -1774550946701574668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_81
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658efc5c5e01364fbc43132960c08ab
+      internalID: 3442755075407728346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_82
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 49
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6dbd48badb93840a7bad6852f38d16
+      internalID: 2983204058980048675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_83
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 48
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8df93dfda317469f251330e1dc0ed
+      internalID: 8345733870799670725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d51bc27913454c8de398968eec2ac
+      internalID: 8472665547606390775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb5983595714042ae28369160e1dc9
+      internalID: -7440374462476275982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537afcb7358fcab4d8d6c4de52dceed5
+      internalID: -5438483509418054350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c1b1f2377b9246995fe30f5cfa7b3
+      internalID: -3129929355726922213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35961eaf4228d7846b80cd0af17f5952
+      internalID: -7926846488913329316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cdf5442d7772746a2a6965420955f1
+      internalID: -1594108268028739032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_90
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31424d937eed5344db5f9970b9c471ab
+      internalID: 1386371563632600204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b681a200ace6d49811a5c180a76987
+      internalID: 3593176102135792637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed006cf2cf10768459f6b62b469d50e1
+      internalID: 6310363678339972230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_93
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c426821c495fc341973209d26d23843
+      internalID: -5769956353239402461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_94
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e50bd9d094c74f93c40aaab669fe8
+      internalID: -7015219012355822929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippo_95
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547301a91a0540479a9a113c3b6eaf0
+      internalID: -2516861282765121112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2443 @@
+fileFormatVersion: 2
+guid: 97dde14511327704eba8081051d71a89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8306553595087768899
+    second: Mountain goat_0
+  - first:
+      213: -6776572851015527412
+    second: Mountain goat_1
+  - first:
+      213: -310669784880270642
+    second: Mountain goat_2
+  - first:
+      213: 8142268537089114675
+    second: Mountain goat_3
+  - first:
+      213: -9098960859157945553
+    second: Mountain goat_4
+  - first:
+      213: -211892522594274700
+    second: Mountain goat_5
+  - first:
+      213: 5701474504916679168
+    second: Mountain goat_6
+  - first:
+      213: -3383447508688790979
+    second: Mountain goat_7
+  - first:
+      213: -98623889158884870
+    second: Mountain goat_8
+  - first:
+      213: -1245343076240878860
+    second: Mountain goat_9
+  - first:
+      213: -9054996843129945155
+    second: Mountain goat_10
+  - first:
+      213: 634229794879658412
+    second: Mountain goat_11
+  - first:
+      213: -6547368963938907910
+    second: Mountain goat_12
+  - first:
+      213: 554055268044768600
+    second: Mountain goat_13
+  - first:
+      213: -6785513082728053792
+    second: Mountain goat_14
+  - first:
+      213: 8755663928758230276
+    second: Mountain goat_15
+  - first:
+      213: 5970906837323653069
+    second: Mountain goat_16
+  - first:
+      213: 8251162659958867775
+    second: Mountain goat_17
+  - first:
+      213: 3572649304746024248
+    second: Mountain goat_18
+  - first:
+      213: 4733145115865261301
+    second: Mountain goat_19
+  - first:
+      213: 809960582578919558
+    second: Mountain goat_20
+  - first:
+      213: 6529386171184749479
+    second: Mountain goat_21
+  - first:
+      213: 4881316858429977514
+    second: Mountain goat_22
+  - first:
+      213: 7050795538562728469
+    second: Mountain goat_23
+  - first:
+      213: -3010577032672322199
+    second: Mountain goat_24
+  - first:
+      213: 4222039304705687528
+    second: Mountain goat_25
+  - first:
+      213: 5197598427036455492
+    second: Mountain goat_26
+  - first:
+      213: -2838975795378229545
+    second: Mountain goat_27
+  - first:
+      213: 1792450047501738263
+    second: Mountain goat_28
+  - first:
+      213: 7984054406906038692
+    second: Mountain goat_29
+  - first:
+      213: 6053404748842199015
+    second: Mountain goat_30
+  - first:
+      213: -7240886866176147443
+    second: Mountain goat_31
+  - first:
+      213: 4743195838826684718
+    second: Mountain goat_32
+  - first:
+      213: 6238418287247065296
+    second: Mountain goat_33
+  - first:
+      213: -7276894298690609364
+    second: Mountain goat_34
+  - first:
+      213: 6232530791178864273
+    second: Mountain goat_35
+  - first:
+      213: 4481302760882910172
+    second: Mountain goat_36
+  - first:
+      213: 8357785444131148186
+    second: Mountain goat_37
+  - first:
+      213: -7071022373293996970
+    second: Mountain goat_38
+  - first:
+      213: 276711725805577303
+    second: Mountain goat_39
+  - first:
+      213: -6212447380690056964
+    second: Mountain goat_40
+  - first:
+      213: 2188660476545095186
+    second: Mountain goat_41
+  - first:
+      213: 8969477931962622789
+    second: Mountain goat_42
+  - first:
+      213: -1200776749097725220
+    second: Mountain goat_43
+  - first:
+      213: 7578708439471021848
+    second: Mountain goat_44
+  - first:
+      213: 7777037020089674725
+    second: Mountain goat_45
+  - first:
+      213: 2916860588811064378
+    second: Mountain goat_46
+  - first:
+      213: 3101936637774654765
+    second: Mountain goat_47
+  - first:
+      213: -1408529123497697048
+    second: Mountain goat_48
+  - first:
+      213: -4009336781077234059
+    second: Mountain goat_49
+  - first:
+      213: 7406866851238590650
+    second: Mountain goat_50
+  - first:
+      213: 3648340312933086536
+    second: Mountain goat_51
+  - first:
+      213: 7353670178005433894
+    second: Mountain goat_52
+  - first:
+      213: 689417193049808156
+    second: Mountain goat_53
+  - first:
+      213: -1914349384825734026
+    second: Mountain goat_54
+  - first:
+      213: 11415227974150190
+    second: Mountain goat_55
+  - first:
+      213: 5680381534618657432
+    second: Mountain goat_56
+  - first:
+      213: 7086487557618624700
+    second: Mountain goat_57
+  - first:
+      213: -1198285038714187238
+    second: Mountain goat_58
+  - first:
+      213: -6019962933338250723
+    second: Mountain goat_59
+  - first:
+      213: -3915650063745833243
+    second: Mountain goat_60
+  - first:
+      213: -9216433646778167327
+    second: Mountain goat_61
+  - first:
+      213: -4810969982824883771
+    second: Mountain goat_62
+  - first:
+      213: 5318137523960958297
+    second: Mountain goat_63
+  - first:
+      213: 7657757955585752325
+    second: Mountain goat_64
+  - first:
+      213: -2371712917349579204
+    second: Mountain goat_65
+  - first:
+      213: -9202854885594848042
+    second: Mountain goat_66
+  - first:
+      213: 3010974795057392505
+    second: Mountain goat_67
+  - first:
+      213: 8926673368856290052
+    second: Mountain goat_68
+  - first:
+      213: 7315625042006356453
+    second: Mountain goat_69
+  - first:
+      213: -188956635070527203
+    second: Mountain goat_70
+  - first:
+      213: 7873732614397529575
+    second: Mountain goat_71
+  - first:
+      213: 3750006238954007762
+    second: Mountain goat_72
+  - first:
+      213: 1436817567151051339
+    second: Mountain goat_73
+  - first:
+      213: -177423005293565260
+    second: Mountain goat_74
+  - first:
+      213: 5162804037992386488
+    second: Mountain goat_75
+  - first:
+      213: -2066478275396371496
+    second: Mountain goat_76
+  - first:
+      213: -7417208340876839266
+    second: Mountain goat_77
+  - first:
+      213: -7776628337610719312
+    second: Mountain goat_78
+  - first:
+      213: -2248874551602547202
+    second: Mountain goat_79
+  - first:
+      213: 2003824407196114879
+    second: Mountain goat_80
+  - first:
+      213: -1143806294064099622
+    second: Mountain goat_81
+  - first:
+      213: -7952203976709308671
+    second: Mountain goat_82
+  - first:
+      213: -2223747015687009830
+    second: Mountain goat_83
+  - first:
+      213: -8474235604755035572
+    second: Mountain goat_84
+  - first:
+      213: 6731327470136586648
+    second: Mountain goat_85
+  - first:
+      213: 775863161971583283
+    second: Mountain goat_86
+  - first:
+      213: -702563875265240682
+    second: Mountain goat_87
+  - first:
+      213: 1311413415146677157
+    second: Mountain goat_88
+  - first:
+      213: 4486003406874301177
+    second: Mountain goat_89
+  - first:
+      213: -6483883004358002125
+    second: Mountain goat_90
+  - first:
+      213: 8342234156286510404
+    second: Mountain goat_91
+  - first:
+      213: 1054698242522049899
+    second: Mountain goat_92
+  - first:
+      213: -2253722420650181830
+    second: Mountain goat_93
+  - first:
+      213: -1325262309871429839
+    second: Mountain goat_94
+  - first:
+      213: -3522030431664711407
+    second: Mountain goat_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mountain goat_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89f4d76291c1e42aa9c8eba1a96a02
+      internalID: -8306553595087768899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 337
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af51651871c3440bc86a395d215c66
+      internalID: -6776572851015527412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c189bd62bf8f4fbca14a69b393627
+      internalID: -310669784880270642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12298bf17ab166f4ba7cb6dc3994db3d
+      internalID: 8142268537089114675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 337
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc5916048ecdb4199b5d47aab2f1c0
+      internalID: -9098960859157945553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1428951ae7fee4a429d6d602e83d5a10
+      internalID: -211892522594274700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f015b81026134f04f8ec147ef991ad04
+      internalID: 5701474504916679168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 337
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c25c4f7a785814c963f17f3471159b
+      internalID: -3383447508688790979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc64142d142c442aa4f5da127cfb7a
+      internalID: -98623889158884870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d6691d99421a4c89b6af1738dd32d
+      internalID: -1245343076240878860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 337
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcdb866ff854d7458c75e2580d30948
+      internalID: -9054996843129945155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae19ef6e303424486d4dd67ebf2055
+      internalID: 634229794879658412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3b0f8ea2b94940872ad66ac715929
+      internalID: -6547368963938907910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff693830906de04ea2f6630f5209872
+      internalID: 554055268044768600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b759522d8b4619945821d0b0a749b0ee
+      internalID: -6785513082728053792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894aa9656254df4897f17e5ff5436ac
+      internalID: 8755663928758230276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a76468e0f89cc8479adf8719c35c9b5
+      internalID: 5970906837323653069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f36377215b564da20e3c25328bbf0
+      internalID: 8251162659958867775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc407b12503467498c8552def7ae008
+      internalID: 3572649304746024248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 288
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5e1bab36842741bb865882acb0ef9
+      internalID: 4733145115865261301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7519ee2a816049851b51dd5931054
+      internalID: 809960582578919558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd77709a861634fbd1090b42b63b35
+      internalID: 6529386171184749479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 288
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0127ee9dd0ab204683f684c0a63b803
+      internalID: 4881316858429977514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979feead1dc79ac488dc27fab2de83ef
+      internalID: 7050795538562728469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248e5e079b310648b0c0412f3f90337
+      internalID: -3010577032672322199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 240
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9800032ec2dce1045b226e3aa26c7870
+      internalID: 4222039304705687528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bc310617493124cb363402f0bcc1b0
+      internalID: 5197598427036455492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4045dfa5f56d8b4abac7942ae64dcd8
+      internalID: -2838975795378229545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 240
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac0637869461244b35009c987e338a
+      internalID: 1792450047501738263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319728a2279e3ec45a856066ba6bf4b0
+      internalID: 7984054406906038692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e113459706d41d458859d8428c9dd86
+      internalID: 6053404748842199015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 240
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499c537110efbd448092ea471993997
+      internalID: -7240886866176147443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdec453a5a6ddb449eec07fd9aa2417
+      internalID: 4743195838826684718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d66c5bc83f8e84f841d7f2933ce750
+      internalID: 6238418287247065296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 240
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb53696326e7f82489d13c47f9248020
+      internalID: -7276894298690609364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a38d061bb32ed746ace3081fc7a52cb
+      internalID: 6232530791178864273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69612b08f7ee4744bd67fcbfdb2ea74
+      internalID: 4481302760882910172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 193
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e40037f4ff2b409b64f6919f37dfb
+      internalID: 8357785444131148186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ce9d71625fce429c8208b4433e936
+      internalID: -7071022373293996970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77404733eea6a43a4019604d3649cb
+      internalID: 276711725805577303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 193
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3cb7e1ed0782f42b16f9d02400bdde
+      internalID: -6212447380690056964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf8e47afe8828408a72dfdbbf368d2
+      internalID: 2188660476545095186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea8da44e8743b4db7a126d933664ec
+      internalID: 8969477931962622789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 193
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244aee6f29cf4d44588c3483f042475f
+      internalID: -1200776749097725220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edfeef529d15ae4e876e5c3b92c07a6
+      internalID: 7578708439471021848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa16c078f44254a976c62b2dd94c41
+      internalID: 7777037020089674725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_46
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 193
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ef567d9c2ae744806442292a1dee3
+      internalID: 2916860588811064378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7f6d6db2d17d94e998a9f1a0111b86
+      internalID: 3101936637774654765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b93913256d464c97dc72b3bcc0b75
+      internalID: -1408529123497697048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 145
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b372f43068f4fec498e8248ce4dd71f9
+      internalID: -4009336781077234059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407cdffa48199144f8753df63d79efa7
+      internalID: 7406866851238590650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a99bc5da2b2e14a8d13b148984cc6a
+      internalID: 3648340312933086536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 145
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26a8aabd229a84d8de24a9780c7a45
+      internalID: 7353670178005433894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492329a18c90d4b4cbfd15c519cee407
+      internalID: 689417193049808156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d525255b8789639408ecc497477edd22
+      internalID: -1914349384825734026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 145
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4fee4492879743be5349f5164d755
+      internalID: 11415227974150190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78d37add17aeb43a74f099bf46ca15
+      internalID: 5680381534618657432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d2f93166bc6e4d82c3a5f5ddd2a88
+      internalID: 7086487557618624700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_58
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 145
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36c86a5a0c1fa41b34517f0c2dc261
+      internalID: -1198285038714187238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf78a4b076af7b488d3a816b9c401e1
+      internalID: -6019962933338250723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab095441d6f04d41a61a587a4e60896
+      internalID: -3915650063745833243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148cc4aba3698042b73e0ba9945aaa8
+      internalID: -9216433646778167327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45af7102887aaa640b3790467ad674cc
+      internalID: -4810969982824883771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498cd9be90d2df4d9f9e326c73776c7
+      internalID: 5318137523960958297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612bcd3f2c6469b4abffdf90c79e13b6
+      internalID: 7657757955585752325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc7b8bac8914c44b4f490819bbe05d
+      internalID: -2371712917349579204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0960ccfc0b12934458e1d3fc709215e1
+      internalID: -9202854885594848042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e373d697534046ac41085efc73410
+      internalID: 3010974795057392505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fd14a9fd6a5a8499f582ec644056b7
+      internalID: 8926673368856290052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb91c660c2fd545ab8661f3164298c
+      internalID: 7315625042006356453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_70
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 96
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f624127db82aa8e4e8b1dbe59407ec31
+      internalID: -188956635070527203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_71
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 96
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47043604a2c5422499f1479e2b2d89a7
+      internalID: 7873732614397529575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b271ec7572c2c47b4707b53071f5e1
+      internalID: 3750006238954007762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0701aca9cab52484ab251db8d91fcb3b
+      internalID: 1436817567151051339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b1f7676555644aba8690983e24129
+      internalID: -177423005293565260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2335716fc3b8b2e49bbde7c7ed2face9
+      internalID: 5162804037992386488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a199554c0713c147a865af2706fa231
+      internalID: -2066478275396371496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234d5925f8c733448917e65f559af56
+      internalID: -7417208340876839266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba374e1f5eba7947ac3053ce0c4609d
+      internalID: -7776628337610719312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_79
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdf0e4e6e6c85489badcc0c15e4051
+      internalID: -2248874551602547202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_80
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee3df79d45c3ff4f8ece122eb11dad9
+      internalID: 2003824407196114879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60521367e07f3d84eb406e5b23691d71
+      internalID: -1143806294064099622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 48
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897054da9121f1341a3e68f7e86aee94
+      internalID: -7952203976709308671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f88d6bf7143fa4e92597fd4a0c705c
+      internalID: -2223747015687009830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e55397bb0e8a408712ac5ec8503ce
+      internalID: -8474235604755035572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7502630b3b31a4081cbbf3cbc621e8
+      internalID: 6731327470136586648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f46baa6eccd14d8bccdd2026a02ab
+      internalID: 775863161971583283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15b551c33161240a4218ce0bd0bccc
+      internalID: -702563875265240682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f14fd3f2b2910b4f803657c91917a06
+      internalID: 1311413415146677157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61086a8de251bfb46b26fff00190cd21
+      internalID: 4486003406874301177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e8d81bd83ed043b7ca2ece8063f5d
+      internalID: -6483883004358002125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d1b90e026f6d449fe879b5a3f481b
+      internalID: 8342234156286510404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb365c9c1f6065945bc0927ce9475a7e
+      internalID: 1054698242522049899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_93
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276a405ad0c764418e78d09a6b48e88
+      internalID: -2253722420650181830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f6312794750f42837ad1c0c0c14ea
+      internalID: -1325262309871429839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain goat_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550b96904b1d5d4788c977f4b5a38d5
+      internalID: -3522030431664711407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

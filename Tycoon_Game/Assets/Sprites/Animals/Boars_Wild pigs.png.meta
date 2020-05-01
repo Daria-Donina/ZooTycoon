@@ -1,0 +1,2443 @@
+fileFormatVersion: 2
+guid: 2366025492303bc47863f83611b31028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3941819152863656377
+    second: Boars_Wild pigs_0
+  - first:
+      213: -8953380291982626091
+    second: Boars_Wild pigs_1
+  - first:
+      213: 6401754352016772713
+    second: Boars_Wild pigs_2
+  - first:
+      213: 4334397302032885509
+    second: Boars_Wild pigs_3
+  - first:
+      213: 541759139997501831
+    second: Boars_Wild pigs_4
+  - first:
+      213: 3608750479021841725
+    second: Boars_Wild pigs_5
+  - first:
+      213: 498240313095704652
+    second: Boars_Wild pigs_6
+  - first:
+      213: 4485203696553743162
+    second: Boars_Wild pigs_7
+  - first:
+      213: 6789175983058710076
+    second: Boars_Wild pigs_8
+  - first:
+      213: -3642405517903511369
+    second: Boars_Wild pigs_9
+  - first:
+      213: -4497431730905608246
+    second: Boars_Wild pigs_10
+  - first:
+      213: 7681716381518376049
+    second: Boars_Wild pigs_11
+  - first:
+      213: 152030358211660996
+    second: Boars_Wild pigs_12
+  - first:
+      213: -4912532878013473602
+    second: Boars_Wild pigs_13
+  - first:
+      213: -1550654459492545132
+    second: Boars_Wild pigs_14
+  - first:
+      213: -6445897143578323782
+    second: Boars_Wild pigs_15
+  - first:
+      213: -9223129375396937136
+    second: Boars_Wild pigs_16
+  - first:
+      213: -2962179195958021606
+    second: Boars_Wild pigs_17
+  - first:
+      213: -6522669325721651811
+    second: Boars_Wild pigs_18
+  - first:
+      213: -3642228467382863005
+    second: Boars_Wild pigs_19
+  - first:
+      213: -3591990423781635056
+    second: Boars_Wild pigs_20
+  - first:
+      213: -6206350351513534736
+    second: Boars_Wild pigs_21
+  - first:
+      213: -2925240352536703139
+    second: Boars_Wild pigs_22
+  - first:
+      213: -9188906483291867376
+    second: Boars_Wild pigs_23
+  - first:
+      213: 3171270884041512401
+    second: Boars_Wild pigs_24
+  - first:
+      213: 4618544552183090130
+    second: Boars_Wild pigs_25
+  - first:
+      213: -4439563237456342538
+    second: Boars_Wild pigs_26
+  - first:
+      213: -8163149854619592092
+    second: Boars_Wild pigs_27
+  - first:
+      213: 3067494875138657058
+    second: Boars_Wild pigs_28
+  - first:
+      213: -6142908216916063537
+    second: Boars_Wild pigs_29
+  - first:
+      213: 1807730429218098772
+    second: Boars_Wild pigs_30
+  - first:
+      213: 8779954184533773232
+    second: Boars_Wild pigs_31
+  - first:
+      213: -2409382049297685574
+    second: Boars_Wild pigs_32
+  - first:
+      213: -1899929584687148057
+    second: Boars_Wild pigs_33
+  - first:
+      213: 181620182796847962
+    second: Boars_Wild pigs_34
+  - first:
+      213: -6367115667108920966
+    second: Boars_Wild pigs_35
+  - first:
+      213: 6790513047305995540
+    second: Boars_Wild pigs_36
+  - first:
+      213: -7640025948356092174
+    second: Boars_Wild pigs_37
+  - first:
+      213: 2568109295452598638
+    second: Boars_Wild pigs_38
+  - first:
+      213: -1764194414732634628
+    second: Boars_Wild pigs_39
+  - first:
+      213: -1158120941813501344
+    second: Boars_Wild pigs_40
+  - first:
+      213: -6908393051562836230
+    second: Boars_Wild pigs_41
+  - first:
+      213: -75127602257811444
+    second: Boars_Wild pigs_42
+  - first:
+      213: 9033333028940446094
+    second: Boars_Wild pigs_43
+  - first:
+      213: -5100654664191051386
+    second: Boars_Wild pigs_44
+  - first:
+      213: -757867190725333399
+    second: Boars_Wild pigs_45
+  - first:
+      213: -6350454900555977087
+    second: Boars_Wild pigs_46
+  - first:
+      213: 5391659647045167539
+    second: Boars_Wild pigs_47
+  - first:
+      213: 5393250113528879184
+    second: Boars_Wild pigs_48
+  - first:
+      213: 4456606641493701047
+    second: Boars_Wild pigs_49
+  - first:
+      213: 1893376734941499418
+    second: Boars_Wild pigs_50
+  - first:
+      213: -8522412556385886808
+    second: Boars_Wild pigs_51
+  - first:
+      213: -3322104195092814530
+    second: Boars_Wild pigs_52
+  - first:
+      213: 3514485968699072046
+    second: Boars_Wild pigs_53
+  - first:
+      213: -301846474767742650
+    second: Boars_Wild pigs_54
+  - first:
+      213: -3198161239073247494
+    second: Boars_Wild pigs_55
+  - first:
+      213: -3115248680399064962
+    second: Boars_Wild pigs_56
+  - first:
+      213: 9131439831851845581
+    second: Boars_Wild pigs_57
+  - first:
+      213: 3923101671164741470
+    second: Boars_Wild pigs_58
+  - first:
+      213: -6244988415636753544
+    second: Boars_Wild pigs_59
+  - first:
+      213: -199564955584248757
+    second: Boars_Wild pigs_60
+  - first:
+      213: -7043702821622400468
+    second: Boars_Wild pigs_61
+  - first:
+      213: -6233851495492494855
+    second: Boars_Wild pigs_62
+  - first:
+      213: 5990202801293602172
+    second: Boars_Wild pigs_63
+  - first:
+      213: 6381234397622531810
+    second: Boars_Wild pigs_64
+  - first:
+      213: -4202926978616916178
+    second: Boars_Wild pigs_65
+  - first:
+      213: 2470364857024162250
+    second: Boars_Wild pigs_66
+  - first:
+      213: 3235801859550092139
+    second: Boars_Wild pigs_67
+  - first:
+      213: -2869464158980822607
+    second: Boars_Wild pigs_68
+  - first:
+      213: -8279530504322204944
+    second: Boars_Wild pigs_69
+  - first:
+      213: -5155025868810810339
+    second: Boars_Wild pigs_70
+  - first:
+      213: 8218224247458382304
+    second: Boars_Wild pigs_71
+  - first:
+      213: -7691475162370704630
+    second: Boars_Wild pigs_72
+  - first:
+      213: 138599079771014503
+    second: Boars_Wild pigs_73
+  - first:
+      213: -351119267950063743
+    second: Boars_Wild pigs_74
+  - first:
+      213: 3889229154828053059
+    second: Boars_Wild pigs_75
+  - first:
+      213: 8295316284342184658
+    second: Boars_Wild pigs_76
+  - first:
+      213: -8302415771308986383
+    second: Boars_Wild pigs_77
+  - first:
+      213: 8522399746645205946
+    second: Boars_Wild pigs_78
+  - first:
+      213: 1169506378401343230
+    second: Boars_Wild pigs_79
+  - first:
+      213: 933239077500863393
+    second: Boars_Wild pigs_80
+  - first:
+      213: 3685558963594402987
+    second: Boars_Wild pigs_81
+  - first:
+      213: -721113346788426942
+    second: Boars_Wild pigs_82
+  - first:
+      213: -8860107788801969426
+    second: Boars_Wild pigs_83
+  - first:
+      213: 3750797080188574052
+    second: Boars_Wild pigs_84
+  - first:
+      213: -7336504017674403650
+    second: Boars_Wild pigs_85
+  - first:
+      213: -7336953420930237990
+    second: Boars_Wild pigs_86
+  - first:
+      213: -3402540928685576896
+    second: Boars_Wild pigs_87
+  - first:
+      213: -2633922105698483807
+    second: Boars_Wild pigs_88
+  - first:
+      213: 3652570442797082467
+    second: Boars_Wild pigs_89
+  - first:
+      213: -5800496616114601876
+    second: Boars_Wild pigs_90
+  - first:
+      213: 758530429247910866
+    second: Boars_Wild pigs_91
+  - first:
+      213: 7055857479800309282
+    second: Boars_Wild pigs_92
+  - first:
+      213: 8094911442431625079
+    second: Boars_Wild pigs_93
+  - first:
+      213: -8719178895976482224
+    second: Boars_Wild pigs_94
+  - first:
+      213: -103173072376797401
+    second: Boars_Wild pigs_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boars_Wild pigs_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a40dbac145a24eb254f23909e0340
+      internalID: -3941819152863656377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 337
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a433f8ff0359d469a3e76175f3c2cd
+      internalID: -8953380291982626091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ebd2567725f04cbec0f10d5cba9b2
+      internalID: 6401754352016772713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580773c94a290742bbf476a96a62b63
+      internalID: 4334397302032885509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 337
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a925dc26ce93b40b2140ab4c118817
+      internalID: 541759139997501831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa013067786aba444bd42a5030706387
+      internalID: 3608750479021841725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd07c3a8f625f42948d97244b58fda
+      internalID: 498240313095704652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 337
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d0935a5ad56b4c9c154165d32b614
+      internalID: 4485203696553743162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc3c97c24f68ed46bbe21d05108f57c
+      internalID: 6789175983058710076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6e74083f9e1c40b5ffb8dfe84ee55
+      internalID: -3642405517903511369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 337
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8696b26b61484f96c1ec7ecc40600
+      internalID: -4497431730905608246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 336
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7fbb6fbfa4d5847a5e358701ae488f
+      internalID: 7681716381518376049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e618f961e5e4c4aad6127b55d5d99f
+      internalID: 152030358211660996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4166a72560442634490827c6569468cf
+      internalID: -4912532878013473602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec0468f2d88e349a15feefe0cb89b6
+      internalID: -1550654459492545132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e6101213ff8e146856c1c8288f3e05
+      internalID: -6445897143578323782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02167d39fad224d46a87f550370fc535
+      internalID: -9223129375396937136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354bc00eff85e342ac3352ae17af643
+      internalID: -2962179195958021606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c44af33e9ccef48905c76ec2f8d194
+      internalID: -6522669325721651811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b218210b5baaca48b28e04ef58fe1bb
+      internalID: -3642228467382863005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db739f61a807f45b31c384849a1b64
+      internalID: -3591990423781635056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec78f74a90ba3545acb5305f1024d5d
+      internalID: -6206350351513534736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f269641c3db2cd41b6bbb007a4b70ef
+      internalID: -2925240352536703139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8560415cc05d4d803dbb3a3cf9fcc
+      internalID: -9188906483291867376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abc9358195fa648a4ecd911d6de81b
+      internalID: 3171270884041512401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bdada6a0a0eb7479a4bd3b8fd4d9cd
+      internalID: 4618544552183090130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab53418c46a9c428cfbae7ae36a8f9
+      internalID: -4439563237456342538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a804e9441d24cf4d90da1c2589ef485
+      internalID: -8163149854619592092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef458c2042d3742a2d9c034af07c34
+      internalID: 3067494875138657058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4e45b5e90f144db4bef71f15ecdf4
+      internalID: -6142908216916063537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2fb636094b354dbacd15b06bdc302
+      internalID: 1807730429218098772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 240
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc38de36a5e603b489c31469dc557328
+      internalID: 8779954184533773232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb792098d5d0d4aa34e794e49fcf03
+      internalID: -2409382049297685574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fe46f87e3ace49bdf5362cb65080e
+      internalID: -1899929584687148057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6eebb448de6e4bae7f1408665fdd1
+      internalID: 181620182796847962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 240
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ed8036358a294a9ee8caf0791db7d
+      internalID: -6367115667108920966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5a601df0239548ab5bad00bac44d7
+      internalID: 6790513047305995540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff51b2bb265fa7428f09bafcc23061c
+      internalID: -7640025948356092174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e6a42d7884d74f88ec953cfe42f32
+      internalID: 2568109295452598638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 192
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeba0ae8051fe1418e0b7cc3674aeb1
+      internalID: -1764194414732634628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09504772ee3d9314aafddc7d21b606c5
+      internalID: -1158120941813501344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 192
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f1b2cfa46e33448af89f18afe5b132
+      internalID: -6908393051562836230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 192
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06806f01b8172504eb455187a5983941
+      internalID: -75127602257811444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d75e590a3958ad40ab0c76542df40c3
+      internalID: 9033333028940446094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0138dd040542e41a6c5b22db085f45
+      internalID: -5100654664191051386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 192
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea73905d843c84090f0117b658e717
+      internalID: -757867190725333399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382ab6e02ae2a834da0866c94c688c3c
+      internalID: -6350454900555977087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 192
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c519a5ce71c545a3a6272cfb9dc1f
+      internalID: 5391659647045167539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762fb9195c550d468744b3c2ed27555
+      internalID: 5393250113528879184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 145
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1297c8235cec4447b0c0dd656b180d8
+      internalID: 4456606641493701047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f207a7704519440a596e1df4eb3c1f
+      internalID: 1893376734941499418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdea1168e8f8a6478402c9350e5b585
+      internalID: -8522412556385886808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 145
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec245d447c8a34c9cb2d78c78522d0
+      internalID: -3322104195092814530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2603a000cac415f46a0d631b72fb68cc
+      internalID: 3514485968699072046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2d5b3647662a4e9f212051862b864
+      internalID: -301846474767742650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 145
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01155ab59c5e2944cb8b53e692d17a43
+      internalID: -3198161239073247494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23fa3c797600a48b94e88113f9f644
+      internalID: -3115248680399064962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b79d1193a00b49a03fe16e07a62fa
+      internalID: 9131439831851845581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 145
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca741ac09cc6044cac1088a900f006d
+      internalID: 3923101671164741470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c621445b547342acfbd527984596f
+      internalID: -6244988415636753544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279cdaae3a145684d92c750a7164c89e
+      internalID: -199564955584248757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72fb2e46608f54d9470533dc375740
+      internalID: -7043702821622400468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310abd83b5e5bd41ab530ef115861c5
+      internalID: -6233851495492494855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef13eb552d8f9348b55fa6d94ef1e24
+      internalID: 5990202801293602172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36a5ede40bfa1468fcebc8e40657d2
+      internalID: 6381234397622531810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fb25eb764f2f240bfb605f8e0a9ca0
+      internalID: -4202926978616916178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad63541e77f9945b87d336c04012bd
+      internalID: 2470364857024162250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a199aef9ea294faed6d43b9a7333f
+      internalID: 3235801859550092139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff47be6d9465e41b7aebcd35baa90c
+      internalID: -2869464158980822607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f8888f9eaf7c42b49a62635451ce5
+      internalID: -8279530504322204944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9f3721d51685f46875db7ed8984f60
+      internalID: -5155025868810810339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe231349142dbaf48a6c8c2425c1ba41
+      internalID: 8218224247458382304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19af95afc9a5a42822598126afc970
+      internalID: -7691475162370704630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac183ddeb13755478e538176ef70d0d
+      internalID: 138599079771014503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68adbfeafc9f34783c52204e8a4c46
+      internalID: -351119267950063743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c412beaa06b541956b7f63cf4f2cf
+      internalID: 3889229154828053059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22553ff8dbb76344b954df5ccffd2fd0
+      internalID: 8295316284342184658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b98699fc759ac4fbf2bc30ce4f6b4c
+      internalID: -8302415771308986383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516ee1dec78a08458cee98c97efc043
+      internalID: 8522399746645205946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198250c67317e2843b3df789fad88ac1
+      internalID: 1169506378401343230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08a7b12d41a3a439bd89f47e8f683d
+      internalID: 933239077500863393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89747ed76831f344aa43798c248a5dd8
+      internalID: 3685558963594402987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2445c0cb54b68246baf62aa61a968ce
+      internalID: -721113346788426942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 48
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2f3afa2d7a3f43b1346e74cb3fc5d
+      internalID: -8860107788801969426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90c50858c450b44b955c0f9e49beaa
+      internalID: 3750797080188574052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39992d026493c14f8b9130424aaec92
+      internalID: -7336504017674403650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa3f85646008dd4b82a9e4d5798cac7
+      internalID: -7336953420930237990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1b9582fb79424d908a1c3e69e9197
+      internalID: -3402540928685576896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df0f2bea10030348b1cc1885d9a3a17
+      internalID: -2633922105698483807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_89
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b907de0edbf044dae7b7879c4656d5
+      internalID: 3652570442797082467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b2010cf79db0458cc81ba8d92a341
+      internalID: -5800496616114601876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5263a508782b44d439d003619590ef67
+      internalID: 758530429247910866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_92
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b3aae71c4529449c7505e0092aacf
+      internalID: 7055857479800309282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_93
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a2048d4343d344b8ab320062a24a6
+      internalID: 8094911442431625079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354c3446e090314c9b4b579fdc7f784
+      internalID: -8719178895976482224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boars_Wild pigs_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdc119deadb92e4c9440013a486630b
+      internalID: -103173072376797401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

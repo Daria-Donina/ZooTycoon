@@ -1,0 +1,2443 @@
+fileFormatVersion: 2
+guid: 309ea149a1c9b3a47bbb2eae407bcf85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7813060720987417506
+    second: Wild dog_Jackal_2_0
+  - first:
+      213: -6767989848737271518
+    second: Wild dog_Jackal_2_1
+  - first:
+      213: -5016804193827800359
+    second: Wild dog_Jackal_2_2
+  - first:
+      213: -3775654293540577299
+    second: Wild dog_Jackal_2_3
+  - first:
+      213: -8780380439920132343
+    second: Wild dog_Jackal_2_4
+  - first:
+      213: -1408636147053850942
+    second: Wild dog_Jackal_2_5
+  - first:
+      213: -2332394145255156386
+    second: Wild dog_Jackal_2_6
+  - first:
+      213: 4185650646267012299
+    second: Wild dog_Jackal_2_7
+  - first:
+      213: -8183605098838207399
+    second: Wild dog_Jackal_2_8
+  - first:
+      213: -5010390743845157969
+    second: Wild dog_Jackal_2_9
+  - first:
+      213: 7434664133765793576
+    second: Wild dog_Jackal_2_10
+  - first:
+      213: 3427974790681367785
+    second: Wild dog_Jackal_2_11
+  - first:
+      213: 803234579583460199
+    second: Wild dog_Jackal_2_12
+  - first:
+      213: -1148301306330249817
+    second: Wild dog_Jackal_2_13
+  - first:
+      213: 1912070452682647504
+    second: Wild dog_Jackal_2_14
+  - first:
+      213: -3432918411413590329
+    second: Wild dog_Jackal_2_15
+  - first:
+      213: 7190364328595397758
+    second: Wild dog_Jackal_2_16
+  - first:
+      213: 5230095620491666804
+    second: Wild dog_Jackal_2_17
+  - first:
+      213: 5630437883585297178
+    second: Wild dog_Jackal_2_18
+  - first:
+      213: 7535664071724250024
+    second: Wild dog_Jackal_2_19
+  - first:
+      213: -7374783088069435736
+    second: Wild dog_Jackal_2_20
+  - first:
+      213: 8188958247712619009
+    second: Wild dog_Jackal_2_21
+  - first:
+      213: -7868031001424438861
+    second: Wild dog_Jackal_2_22
+  - first:
+      213: 1687204412843587579
+    second: Wild dog_Jackal_2_23
+  - first:
+      213: 4134036709317078768
+    second: Wild dog_Jackal_2_24
+  - first:
+      213: 7774630905993409742
+    second: Wild dog_Jackal_2_25
+  - first:
+      213: -3424013519952148874
+    second: Wild dog_Jackal_2_26
+  - first:
+      213: 5961237718628082507
+    second: Wild dog_Jackal_2_27
+  - first:
+      213: 4433956998085018219
+    second: Wild dog_Jackal_2_28
+  - first:
+      213: -3598968416313822973
+    second: Wild dog_Jackal_2_29
+  - first:
+      213: 1426286936649428144
+    second: Wild dog_Jackal_2_30
+  - first:
+      213: -5768957190697223900
+    second: Wild dog_Jackal_2_31
+  - first:
+      213: 1025485788853755390
+    second: Wild dog_Jackal_2_32
+  - first:
+      213: 7075351750461689297
+    second: Wild dog_Jackal_2_33
+  - first:
+      213: 5926423013647914628
+    second: Wild dog_Jackal_2_34
+  - first:
+      213: 1642836421820034695
+    second: Wild dog_Jackal_2_35
+  - first:
+      213: -4001672063252154502
+    second: Wild dog_Jackal_2_36
+  - first:
+      213: 6176886273052861796
+    second: Wild dog_Jackal_2_37
+  - first:
+      213: 1745137072977730630
+    second: Wild dog_Jackal_2_38
+  - first:
+      213: -8204448533465260385
+    second: Wild dog_Jackal_2_39
+  - first:
+      213: -2505883802878133019
+    second: Wild dog_Jackal_2_40
+  - first:
+      213: -2928019068706850406
+    second: Wild dog_Jackal_2_41
+  - first:
+      213: 2576896668158025455
+    second: Wild dog_Jackal_2_42
+  - first:
+      213: -6405731661741506989
+    second: Wild dog_Jackal_2_43
+  - first:
+      213: -753829976436448758
+    second: Wild dog_Jackal_2_44
+  - first:
+      213: -7355627674495931470
+    second: Wild dog_Jackal_2_45
+  - first:
+      213: 2917639341430187683
+    second: Wild dog_Jackal_2_46
+  - first:
+      213: -3162399440208869457
+    second: Wild dog_Jackal_2_47
+  - first:
+      213: 3809491386164182377
+    second: Wild dog_Jackal_2_48
+  - first:
+      213: 5794643118404689800
+    second: Wild dog_Jackal_2_49
+  - first:
+      213: 4845475752284473233
+    second: Wild dog_Jackal_2_50
+  - first:
+      213: -4134825238467564562
+    second: Wild dog_Jackal_2_51
+  - first:
+      213: -6506966450080589475
+    second: Wild dog_Jackal_2_52
+  - first:
+      213: -7171900836465809308
+    second: Wild dog_Jackal_2_53
+  - first:
+      213: -5515696058855646566
+    second: Wild dog_Jackal_2_54
+  - first:
+      213: -7492403453407839283
+    second: Wild dog_Jackal_2_55
+  - first:
+      213: 4626921986339672808
+    second: Wild dog_Jackal_2_56
+  - first:
+      213: 4335101798010557523
+    second: Wild dog_Jackal_2_57
+  - first:
+      213: 9061387372828110295
+    second: Wild dog_Jackal_2_58
+  - first:
+      213: 8534633045903019160
+    second: Wild dog_Jackal_2_59
+  - first:
+      213: 7970090772720671367
+    second: Wild dog_Jackal_2_60
+  - first:
+      213: 6851469255280208931
+    second: Wild dog_Jackal_2_61
+  - first:
+      213: -606272464811311486
+    second: Wild dog_Jackal_2_62
+  - first:
+      213: 3731119458230894661
+    second: Wild dog_Jackal_2_63
+  - first:
+      213: 5197085620080914133
+    second: Wild dog_Jackal_2_64
+  - first:
+      213: 7394690364260228730
+    second: Wild dog_Jackal_2_65
+  - first:
+      213: -7056689143315206490
+    second: Wild dog_Jackal_2_66
+  - first:
+      213: 1725229295262362499
+    second: Wild dog_Jackal_2_67
+  - first:
+      213: 6503388347730834982
+    second: Wild dog_Jackal_2_68
+  - first:
+      213: -7799521988763958599
+    second: Wild dog_Jackal_2_69
+  - first:
+      213: -7258122896593798735
+    second: Wild dog_Jackal_2_70
+  - first:
+      213: 918392455782382787
+    second: Wild dog_Jackal_2_71
+  - first:
+      213: -3357147930291175798
+    second: Wild dog_Jackal_2_72
+  - first:
+      213: -5160262609253632758
+    second: Wild dog_Jackal_2_73
+  - first:
+      213: 7606449017034673337
+    second: Wild dog_Jackal_2_74
+  - first:
+      213: 9104241523486274937
+    second: Wild dog_Jackal_2_75
+  - first:
+      213: -6750101957777781959
+    second: Wild dog_Jackal_2_76
+  - first:
+      213: 118674408950259451
+    second: Wild dog_Jackal_2_77
+  - first:
+      213: 9106192102863221718
+    second: Wild dog_Jackal_2_78
+  - first:
+      213: -3551594410762507468
+    second: Wild dog_Jackal_2_79
+  - first:
+      213: 4775105870481856180
+    second: Wild dog_Jackal_2_80
+  - first:
+      213: 472405364365511477
+    second: Wild dog_Jackal_2_81
+  - first:
+      213: 6336358085735375096
+    second: Wild dog_Jackal_2_82
+  - first:
+      213: 210265655396412341
+    second: Wild dog_Jackal_2_83
+  - first:
+      213: -5051193002638933661
+    second: Wild dog_Jackal_2_84
+  - first:
+      213: -2536462067220911335
+    second: Wild dog_Jackal_2_85
+  - first:
+      213: -2188752014559345396
+    second: Wild dog_Jackal_2_86
+  - first:
+      213: 4323370920873992355
+    second: Wild dog_Jackal_2_87
+  - first:
+      213: 7098618134711353521
+    second: Wild dog_Jackal_2_88
+  - first:
+      213: -5261709532508963809
+    second: Wild dog_Jackal_2_89
+  - first:
+      213: -6397773700119853353
+    second: Wild dog_Jackal_2_90
+  - first:
+      213: -8380243851310839620
+    second: Wild dog_Jackal_2_91
+  - first:
+      213: 5181581053046821375
+    second: Wild dog_Jackal_2_92
+  - first:
+      213: -8603741317101309011
+    second: Wild dog_Jackal_2_93
+  - first:
+      213: -8132812848134100841
+    second: Wild dog_Jackal_2_94
+  - first:
+      213: 6976092337585102984
+    second: Wild dog_Jackal_2_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127d1f06b75fba4ea104d2a339b1e4d
+      internalID: 7813060720987417506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1aec34e599988438dfb8c54765b776
+      internalID: -6767989848737271518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705a05a510166c41b499e8d6e975245
+      internalID: -5016804193827800359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020557818639c943a3561157f3c873d
+      internalID: -3775654293540577299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241bbeff447f3a9479822912a6268d9e
+      internalID: -8780380439920132343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a982ededbd2e644b686fbc15bb5ac2
+      internalID: -1408636147053850942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4698f633090ea84f80fc2e2c7d02917
+      internalID: -2332394145255156386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f9dbb73195b244a4d1e88aa965656
+      internalID: 4185650646267012299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cd548a1edd6b4797664ea5bf71124
+      internalID: -8183605098838207399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 337
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07afb4374a28d4c8d3d4543a40f236
+      internalID: -5010390743845157969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 337
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f375a22bd38aba54c8a8f5aab81ce054
+      internalID: 7434664133765793576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 337
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d5df6a23527c4cbc598f63a7d547a
+      internalID: 3427974790681367785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6481f84aa8f4c84cad71701879f74a6
+      internalID: 803234579583460199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bf938a9f6c164f8116450ae3bfc92
+      internalID: -1148301306330249817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b13a38a96a52e54e9bd51e4541445e3
+      internalID: 1912070452682647504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9718dca951154db1d871fdfe44e76
+      internalID: -3432918411413590329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bbab8342de1804e8a8b855d8e33611
+      internalID: 7190364328595397758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 288
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a22fe16fe73e43aa4077e3cbf453b
+      internalID: 5230095620491666804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550f354536e0974cad81964065f9314
+      internalID: 5630437883585297178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 288
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1242b429fd1bd0488528726d1ffc965
+      internalID: 7535664071724250024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1356dbf96bb3ba84984cf769b56c9c8e
+      internalID: -7374783088069435736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 289
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6fc7840189e054f97f4b8f2756399e
+      internalID: 8188958247712619009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 289
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a04954397372494bb20a3a475417c37
+      internalID: -7868031001424438861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 289
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1bc7397d3c1d42b178ba5f2e9cc9a
+      internalID: 1687204412843587579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d94ae6127c4524db27fe10ef15d328
+      internalID: 4134036709317078768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c5199df9a02824cb93ac812b9a5752
+      internalID: 7774630905993409742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e8da3daf6096468185e2bb0a7f3e2
+      internalID: -3424013519952148874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 240
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0d8f3ad943af42ba34c58338da8c1
+      internalID: 5961237718628082507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb016a5e0a586a49ab89e647986cd28
+      internalID: 4433956998085018219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbdab5914d8354e8610f2da7370340
+      internalID: -3598968416313822973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 240
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73579cc090718d64c8c0902dac514f4e
+      internalID: 1426286936649428144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd59a77b1e9b54d8697f684d9e5a4b
+      internalID: -5768957190697223900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481f5911c747734a8bcb09aa63774a4
+      internalID: 1025485788853755390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 241
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c6e84fc348db42976ac8cb67b6891
+      internalID: 7075351750461689297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 241
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae0fa5a13320a4684811fb78fa8d43
+      internalID: 5926423013647914628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 241
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bacd4ec8003cc843ae223a0e722bd47
+      internalID: 1642836421820034695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0ae39d56d99c4eb824d0733957c4a
+      internalID: -4001672063252154502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 192
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4817387be1d204fbf34e4523551f88
+      internalID: 6176886273052861796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa1b081e2a3f0478c9f82c7f2eff72
+      internalID: 1745137072977730630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb38468e43d368b4daafd34429ebfae7
+      internalID: -8204448533465260385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf307586ec1d77b47858664a6de9fbae
+      internalID: -2505883802878133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c040e74ee75640bab0d961ee5c8d0
+      internalID: -2928019068706850406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9315d3782b694fa395223be448496
+      internalID: 2576896668158025455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 192
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e689f953123d849b16b4796f5dde59
+      internalID: -6405731661741506989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327f039a6cd63043af183759d3f4b7b
+      internalID: -753829976436448758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 193
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e73a32c65c0bb441bdbefcbb53f59bc
+      internalID: -7355627674495931470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_46
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 193
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14dc337150b9504788aeaa23c5467aa
+      internalID: 2917639341430187683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 193
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0042b4348276144ad7e1c95206c137
+      internalID: -3162399440208869457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94425a84c06b96f4394ab712c53ad750
+      internalID: 3809491386164182377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c314854d58078b45ae600406451e4fd
+      internalID: 5794643118404689800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ca5929651c51c4491a73225c438ba1
+      internalID: 4845475752284473233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91b0fed3bbaa642aa9b33a88fe06b8
+      internalID: -4134825238467564562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59f56d141632c4eb14ca043b8a8ff1
+      internalID: -6506966450080589475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d736a0eb6c363c4e85adeb558ac2b1e
+      internalID: -7171900836465809308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ca40cea0d2e1647acacd7eb5dd6205
+      internalID: -5515696058855646566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b30f8bb25e31a4ab7756deb772ded7
+      internalID: -7492403453407839283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc28ffbd0cdcdf4eb62946b875b18ef
+      internalID: 4626921986339672808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5514e6a23cd348b020a1ec969d8f0
+      internalID: 4335101798010557523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb0189b000edac45b0ef71a2d1612fc
+      internalID: 9061387372828110295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772fc1a2df3162f4c9d9f119673318fc
+      internalID: 8534633045903019160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd98b6354eca9824db32f0befe25b41c
+      internalID: 7970090772720671367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c68791d79e814ea211fe50c7c1228
+      internalID: 6851469255280208931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b6890f08f91a64590dec7e678b1ba4
+      internalID: -606272464811311486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77731caf74cb51d47968af1010c10e3b
+      internalID: 3731119458230894661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616475297fad54c46b218e474a8fc55d
+      internalID: 5197085620080914133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db249132f2d69c4cb17ba12f0ebd6a2
+      internalID: 7394690364260228730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3142b060e9314a408088430bfe4edb5
+      internalID: -7056689143315206490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d651791f35dbff47873498abf4f3621
+      internalID: 1725229295262362499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf9d7dc6e7d4d44a877601f94a32a5
+      internalID: 6503388347730834982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260f73f2b9f6d2419266b7db3d58389
+      internalID: -7799521988763958599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_70
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8a2b3061b8cb40a22da3f65c36501
+      internalID: -7258122896593798735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877250d29fedac4a8f7e57c8f45077a
+      internalID: 918392455782382787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834fe5935574bb74dbcd12c562def467
+      internalID: -3357147930291175798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc7683de782c34facb308b9a63ef33
+      internalID: -5160262609253632758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d2373efd478448b93969d6db40ac9
+      internalID: 7606449017034673337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b23f0b185e262740b68d7ad513bba49
+      internalID: 9104241523486274937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fa7aed757484840b20ccd133d2db63
+      internalID: -6750101957777781959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a7faeb21cf98a489908c54c92bc878
+      internalID: 118674408950259451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3038ebd17dace46a7dad98e82fe87e
+      internalID: 9106192102863221718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f955fc83d05f64384be39e86707a5c
+      internalID: -3551594410762507468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13769b924360b34c91414f2646579ef
+      internalID: 4775105870481856180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcc768a41852240918a7881ba353ca
+      internalID: 472405364365511477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f767c3b8936f24f9bb02046119bf6e
+      internalID: 6336358085735375096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701fe05a8b11d984cbf811fcacf736fe
+      internalID: 210265655396412341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469de425a3c757c4cbfe2ca7bb210f08
+      internalID: -5051193002638933661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d277ac46cbe5dc4aaa282913391ba5a
+      internalID: -2536462067220911335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50575928398f72a489bf6d5fb6e8f2f5
+      internalID: -2188752014559345396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_87
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527c2c7daa19394789214cc12e98b48
+      internalID: 4323370920873992355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad90e20440b19314192e592a8dccc6f9
+      internalID: 7098618134711353521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691eb0f88454cd8428d881c0bcbcd84d
+      internalID: -5261709532508963809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e2f87e617cf2f498d0f651d0b461ff
+      internalID: -6397773700119853353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_91
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db177612f48c43e40b7c918cd10f3da0
+      internalID: -8380243851310839620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_92
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fffcc24177c03a4a8adcacb33b0e30c
+      internalID: 5181581053046821375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a46d02e02683c24886a4b1b7a6bd53c
+      internalID: -8603741317101309011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa371b93a92b04797d404a3608464c
+      internalID: -8132812848134100841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild dog_Jackal_2_95
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c7f955b819df4c8308b10a0a8185b
+      internalID: 6976092337585102984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

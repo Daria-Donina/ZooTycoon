@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 8df6c7a151db7e14e8c134a43bf4efe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3624490688678364646
+    second: Ostrich_0
+  - first:
+      213: -406473635709934175
+    second: Ostrich_1
+  - first:
+      213: -2029286564257187802
+    second: Ostrich_2
+  - first:
+      213: 314930178388213956
+    second: Ostrich_3
+  - first:
+      213: 8740197337583992780
+    second: Ostrich_4
+  - first:
+      213: -898527505214765390
+    second: Ostrich_5
+  - first:
+      213: -5817994902962228513
+    second: Ostrich_6
+  - first:
+      213: -4535163247449364848
+    second: Ostrich_7
+  - first:
+      213: 2753145231026964767
+    second: Ostrich_8
+  - first:
+      213: 1339323559821881563
+    second: Ostrich_9
+  - first:
+      213: 5192631233128665928
+    second: Ostrich_10
+  - first:
+      213: 2539507203704637285
+    second: Ostrich_11
+  - first:
+      213: 958784237450850566
+    second: Ostrich_12
+  - first:
+      213: -51237889278323197
+    second: Ostrich_13
+  - first:
+      213: 1124500459576479988
+    second: Ostrich_14
+  - first:
+      213: -565576270038647772
+    second: Ostrich_15
+  - first:
+      213: 7405546292211288171
+    second: Ostrich_16
+  - first:
+      213: 4441119526419384806
+    second: Ostrich_17
+  - first:
+      213: 2319176001058375457
+    second: Ostrich_18
+  - first:
+      213: 7768347347595440618
+    second: Ostrich_19
+  - first:
+      213: -4481752387603243371
+    second: Ostrich_20
+  - first:
+      213: -4529892651122863846
+    second: Ostrich_21
+  - first:
+      213: 35274882276702758
+    second: Ostrich_22
+  - first:
+      213: 677178622805910586
+    second: Ostrich_23
+  - first:
+      213: -4008877479147389984
+    second: Ostrich_24
+  - first:
+      213: -7225677974805486075
+    second: Ostrich_25
+  - first:
+      213: 6784287345616225025
+    second: Ostrich_26
+  - first:
+      213: -141746297535286979
+    second: Ostrich_27
+  - first:
+      213: 6293817845107659036
+    second: Ostrich_28
+  - first:
+      213: -4705871350181409350
+    second: Ostrich_29
+  - first:
+      213: -3899648274337636330
+    second: Ostrich_30
+  - first:
+      213: -4805909844231715724
+    second: Ostrich_31
+  - first:
+      213: -3638337984419108607
+    second: Ostrich_32
+  - first:
+      213: -1311041141390361876
+    second: Ostrich_33
+  - first:
+      213: -7958879847658078468
+    second: Ostrich_34
+  - first:
+      213: -179117406838583739
+    second: Ostrich_35
+  - first:
+      213: 3209461552274640548
+    second: Ostrich_36
+  - first:
+      213: 6908037774858150744
+    second: Ostrich_37
+  - first:
+      213: 8422253237548474584
+    second: Ostrich_38
+  - first:
+      213: 7875553726965442159
+    second: Ostrich_39
+  - first:
+      213: -2092199197348042081
+    second: Ostrich_40
+  - first:
+      213: 6929953390459402322
+    second: Ostrich_41
+  - first:
+      213: -4212326867643002699
+    second: Ostrich_42
+  - first:
+      213: -6677597665258259486
+    second: Ostrich_43
+  - first:
+      213: -5741671034853121579
+    second: Ostrich_44
+  - first:
+      213: 1619733996706324849
+    second: Ostrich_45
+  - first:
+      213: 4672533469062250459
+    second: Ostrich_46
+  - first:
+      213: 6749066511659039371
+    second: Ostrich_47
+  - first:
+      213: 418956125224603073
+    second: Ostrich_48
+  - first:
+      213: -2305633576091909875
+    second: Ostrich_49
+  - first:
+      213: -1992247977721928175
+    second: Ostrich_50
+  - first:
+      213: -8915818722503513689
+    second: Ostrich_51
+  - first:
+      213: -854730755086146874
+    second: Ostrich_52
+  - first:
+      213: -4048912911132874947
+    second: Ostrich_53
+  - first:
+      213: -1833153671838110564
+    second: Ostrich_54
+  - first:
+      213: 1979771681407286699
+    second: Ostrich_55
+  - first:
+      213: 3469244213403764228
+    second: Ostrich_56
+  - first:
+      213: -886488116840398339
+    second: Ostrich_57
+  - first:
+      213: -5878080413031460855
+    second: Ostrich_58
+  - first:
+      213: -1908674613010591569
+    second: Ostrich_59
+  - first:
+      213: 8343768129132733737
+    second: Ostrich_60
+  - first:
+      213: 6029466999395268730
+    second: Ostrich_61
+  - first:
+      213: -1443014105739071398
+    second: Ostrich_62
+  - first:
+      213: 1047481234653004063
+    second: Ostrich_63
+  - first:
+      213: -3079039984922604319
+    second: Ostrich_64
+  - first:
+      213: -2549963957921284048
+    second: Ostrich_65
+  - first:
+      213: 7274416100506665334
+    second: Ostrich_66
+  - first:
+      213: -5212286420665746159
+    second: Ostrich_67
+  - first:
+      213: -1220674007225041174
+    second: Ostrich_68
+  - first:
+      213: 1591586175877339919
+    second: Ostrich_69
+  - first:
+      213: -7805225077179738259
+    second: Ostrich_70
+  - first:
+      213: -5355174882693230176
+    second: Ostrich_71
+  - first:
+      213: 3730301811517239360
+    second: Ostrich_72
+  - first:
+      213: -6269587901212477198
+    second: Ostrich_73
+  - first:
+      213: -5815637936632663353
+    second: Ostrich_74
+  - first:
+      213: -742142343968314015
+    second: Ostrich_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ostrich_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 338
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e9d999206eda40a9f91beecde2d79
+      internalID: -3624490688678364646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10dc09030377dd4896617070d5268bd
+      internalID: -406473635709934175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627426149afcf2d49b6183253d0e3adb
+      internalID: -2029286564257187802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 336
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61477a7f950e6440bb60b60eb438ad0
+      internalID: 314930178388213956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 336
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6646d052a86064880be934c3bc5867
+      internalID: 8740197337583992780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 336
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f525cd09d3bb4e823f8458b349071
+      internalID: -898527505214765390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 338
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385336a725f345c45ad93c1a08e04dd0
+      internalID: -5817994902962228513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 336
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739fc86cec222de4c822407840d281e1
+      internalID: -4535163247449364848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 338
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e24b1d5adc7e543bb818b8059c711f
+      internalID: 2753145231026964767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 336
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ba6961741b6404a88ea168827cf35a
+      internalID: 1339323559821881563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 336
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0abafdc1fe56f04aa7637111d65f3de
+      internalID: 5192631233128665928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 336
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a90548dc96ef4e4b9a98cfb5a07f665
+      internalID: 2539507203704637285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a6551a987f8d4d989fe387a9aa64a
+      internalID: 958784237450850566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c7a1588039234c8ae3ce38e401973
+      internalID: -51237889278323197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 291
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2271ab6b3df7543b1bb14495fab77b
+      internalID: 1124500459576479988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b416f189d33d3a74f9f6eb18616c40f1
+      internalID: -565576270038647772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc71fb0ca3ee74ca255a52ffcefc59
+      internalID: 7405546292211288171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 288
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d851d93843e940bd94da020a61a78
+      internalID: 4441119526419384806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3641d7211361b05419a3fd6b0ac8d03d
+      internalID: 2319176001058375457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 288
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa96c1b58bf19499f465abed8db3de
+      internalID: 7768347347595440618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 291
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d7547223bd664fb26f540289ec646
+      internalID: -4481752387603243371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d4bb76c8fa4d4cbb38eac761a3588
+      internalID: -4529892651122863846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 288
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0223357e975cab54f840e953c03558f7
+      internalID: 35274882276702758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 288
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42bc76cc1b808c47857c52a279f178a
+      internalID: 677178622805910586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 242
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd41030969e346468a47fbf4651565f
+      internalID: -4008877479147389984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 39
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2c428674b65bd4bbff19d6b158afdd
+      internalID: -7225677974805486075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 243
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59948d738d54586418824b71cb079e39
+      internalID: 6784287345616225025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46930c618f854d241a20a41af5426c63
+      internalID: -141746297535286979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 144
+        width: 39
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc4723e96338142b7746f20d147a55
+      internalID: 6293817845107659036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 192
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f05e7acf7cea4bb9b0ce879d8410d
+      internalID: -4705871350181409350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 242
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c516f10c7850c9f4790ecc44204ee872
+      internalID: -3899648274337636330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 39
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc33196946846e41911980e48a0586f
+      internalID: -4805909844231715724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 243
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97663125af6fbe345bc7f4ddf328d036
+      internalID: -3638337984419108607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 192
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc645a7213977448235f6d5909624f
+      internalID: -1311041141390361876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 144
+        width: 39
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44b4acf17f9d9948957892642dffe88
+      internalID: -7958879847658078468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 192
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6296635b7d06594bb725153f858dc91
+      internalID: -179117406838583739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e957050162a944e8305b4f6cca3c9e
+      internalID: 3209461552274640548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 194
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fe2777f7fee054cb362beebf8ad29d
+      internalID: 6908037774858150744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 194
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ce9998d5137349a304b62779bef5a
+      internalID: 8422253237548474584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_39
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 194
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334bb2eeae89dea41b86868f3aced062
+      internalID: 7875553726965442159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae56e3f46228b64997d47feccb48a62
+      internalID: -2092199197348042081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 146
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37309cf3b2193d445a120935443c4463
+      internalID: 6929953390459402322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 144
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa60030fcb106419b437ece96c9651
+      internalID: -4212326867643002699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 144
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ee82c3f27ce74ab82709581b7258b
+      internalID: -6677597665258259486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 146
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa228da3d1b4284aa4609823dc8de67
+      internalID: -5741671034853121579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_45
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 146
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c377805e9e5bab41ac4c5dd39bf6766
+      internalID: 1619733996706324849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_46
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 144
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9237b754bd67d34383c7e6a45f62212
+      internalID: 4672533469062250459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 144
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8f0801807e5c47be6c9307b4896ea
+      internalID: 6749066511659039371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82fbc0037e9b543b70cd2ad9762d28
+      internalID: 418956125224603073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e7592821a2274c8c3abd0a7e04dd5
+      internalID: -2305633576091909875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc6f206979c0464d9cb8e405213d74b
+      internalID: -1992247977721928175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d539478a135f4aacb2002297ea567
+      internalID: -8915818722503513689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc44ed4449a7149bbc08467ef748ba
+      internalID: -854730755086146874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 96
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a4e112b0cc6b24383828b38c4b6fb7
+      internalID: -4048912911132874947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 98
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab800dda0575b5640a031149e1b48af7
+      internalID: -1833153671838110564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd452f261fbdeb41ab46913a819bea3
+      internalID: 1979771681407286699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 99
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f8a3f939c7e6c458591533b4027bec
+      internalID: 3469244213403764228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7fdefaeb176924bb5137615b7d59f1
+      internalID: -886488116840398339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 96
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513dcb5b40dcb347bf273a117f322b5
+      internalID: -5878080413031460855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_59
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 96
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14372822a670f2d48b3943ac078bd81d
+      internalID: -1908674613010591569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa979a404cca8b84b9f99bc92af6e1a1
+      internalID: 8343768129132733737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada5912f939b4a478fa784e1ab2b883
+      internalID: 6029466999395268730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 51
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313e05c7e660c048ac1541e922f8b18
+      internalID: -1443014105739071398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be6cf9f271b72418ee842ab50d0e26
+      internalID: 1047481234653004063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32221a62e4e0e0a47bb347d98fc2c306
+      internalID: -3079039984922604319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fcda2ff5b68d4da8361224f75176c
+      internalID: -2549963957921284048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 50
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b167286f78fa64408beda5651f12924
+      internalID: 7274416100506665334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba805e5851ec748aa31a9375c6af63
+      internalID: -5212286420665746159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7ab4467de8e64182d91027e639ae3
+      internalID: -1220674007225041174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be06f956ffa36848afbcfd8779fc46c
+      internalID: 1591586175877339919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce32d2c7e62eaf4cb5e1255c902e85f
+      internalID: -7805225077179738259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_71
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c79cb84f2949141873259a6419b080
+      internalID: -5355174882693230176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d080f1695657da4c97dfb0438bfa6e2
+      internalID: 3730301811517239360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db708cd4ed5b044381fc52c468fc134
+      internalID: -6269587901212477198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244810fc2b4f5684e93faf04dd1343f8
+      internalID: -5815637936632663353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ostrich_75
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff5ebf142e6b24ab4e74295dcfe920
+      internalID: -742142343968314015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
