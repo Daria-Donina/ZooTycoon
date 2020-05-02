@@ -1,7 +1,13 @@
 ﻿using UnityEngine;
+using UnityEngine.UIElements;
 
 public class AnimalNeeds : MonoBehaviour
 {
+    [SerializeField]
+    private GameObject animalNeedsPanelPrefab;
+
+    private GameObject animalNeedsPanel;
+
     [SerializeField]
     private float welfare;
 
@@ -24,13 +30,17 @@ public class AnimalNeeds : MonoBehaviour
         water = 100f;
         entertainment = 100f;
         inhabitancy = 0;
+
+        animalNeedsPanel = Instantiate(animalNeedsPanelPrefab, transform.position, transform.rotation) as GameObject;
+        animalNeedsPanel.transform.SetParent(GameObject.FindGameObjectWithTag("Canvas").transform, false);
+        animalNeedsPanel.SetActive(false);
     }
 
     // Update is called once per frame
-    void Update()
+    /*void Update()
     {
         
-    }
+    }*/
 
     private void FixedUpdate()
     {
@@ -52,9 +62,21 @@ public class AnimalNeeds : MonoBehaviour
         CalculateWelfare();
     }
 
+    private void OnMouseDown()
+    {
+        var panels = GameObject.FindGameObjectsWithTag("Panel");
+
+        foreach (var panel in panels)
+        {
+            panel.SetActive(false);
+        }
+
+        animalNeedsPanel.SetActive(true);
+    }
+
     public void CalculateInhabitancy()
     {
-
+        
     }
 
     /// <summary>

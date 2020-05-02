@@ -177,3 +177,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cf5a7ea5e9dd9e4fb09f54a6eaf3c94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animalNeedsPanelPrefab: {fileID: 4193393811132554425, guid: 438ccf6959b674140a66deb2c657bbee,
+    type: 3}
+  welfare: 0
+  food: 0
+  water: 0
+  entertainment: 0
+  inhabitancy: 0
