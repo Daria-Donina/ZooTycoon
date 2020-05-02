@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7275769718401691217}
   - component: {fileID: 7275769718401691212}
   - component: {fileID: 7275769718314227439}
+  - component: {fileID: -4896952383646570682}
   m_Layer: 11
   m_Name: Animal
   m_TagString: Untagged
@@ -49,6 +50,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -163,3 +165,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.5
+--- !u!114 &-4896952383646570682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7275769718401691216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cf5a7ea5e9dd9e4fb09f54a6eaf3c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

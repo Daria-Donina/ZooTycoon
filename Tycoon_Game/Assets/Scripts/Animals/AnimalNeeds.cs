@@ -3,27 +3,27 @@
 public class AnimalNeeds : MonoBehaviour
 {
     [SerializeField]
-    public float Welfare { get; private set; }
+    private float welfare;
 
     [SerializeField]
-    public float Food { get; private set; }
+    private float food;
 
     [SerializeField]
-    public float Water { get; private set; }
+    private float water;
 
     [SerializeField]
-    public float Entertainment { get; private set; }
+    private float entertainment;
 
     [SerializeField]
-    public float Inhabitancy { get; private set; }
+    private float inhabitancy;
 
     // Start is called before the first frame update
     void Start()
     {
-        Food = 100f;
-        Water = 100f;
-        Entertainment = 100f;
-        Inhabitancy = 0;
+        food = 100f;
+        water = 100f;
+        entertainment = 100f;
+        inhabitancy = 0;
     }
 
     // Update is called once per frame
@@ -34,19 +34,19 @@ public class AnimalNeeds : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (Food > 0)
+        if (food > 0)
         {
-            Food -= 0.05f;
+            food -= 0.003f;
         }
 
-        if (Water > 0)
+        if (water > 0)
         {
-            Water -= 0.05f;
+            water -= 0.003f;
         }
 
-        if (Entertainment > 0)
+        if (entertainment > 0)
         {
-            Entertainment -= 0.05f;
+            entertainment -= 0.003f;
         }
 
         CalculateWelfare();
@@ -68,37 +68,37 @@ public class AnimalNeeds : MonoBehaviour
         float inhabitancyPart;
 
         //Считаем вклад entertainment в welfare.
-        if (Entertainment > 50f)
+        if (entertainment > 50f)
         {
             entertainmentPart = 25f;
         }
         else
         {
-            entertainmentPart = Entertainment / 50f * 25f;
+            entertainmentPart = entertainment / 50f * 25f;
         }
 
         //Считаем вклад food в welfare.
-        if (Food > 50f)
+        if (food > 50f)
         {
             foodPart = 25f;
         }
         else
         {
-            foodPart = Food / 50f * 25f;
+            foodPart = food / 50f * 25f;
         }
 
         //Считаем вклад water в welfare.
-        if (Water > 50f)
+        if (water > 50f)
         {
             waterPart = 25f;
         }
         else
         {
-            waterPart = Water / 50f * 25f;
+            waterPart = water / 50f * 25f;
         }
 
-        inhabitancyPart = Inhabitancy / 100f * 25f;
+        inhabitancyPart = inhabitancy / 100f * 25f;
 
-        Welfare = foodPart + waterPart + entertainmentPart + inhabitancyPart;
+        welfare = foodPart + waterPart + entertainmentPart + inhabitancyPart;
     }
 }
