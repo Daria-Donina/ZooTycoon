@@ -54,6 +54,9 @@ TagManager:
   - name: Animals
     uniqueID: 4189255343
     locked: 0
+  - name: Objects
+    uniqueID: 3597590591
+    locked: 0
   - name: UI
     uniqueID: 2870920845
     locked: 0
