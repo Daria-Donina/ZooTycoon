@@ -5476,6 +5476,12 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!1 &133035596 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2775294223127021420, guid: e7dddc948e3f69d408097f32545035bb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1528651478}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &147411381
 GameObject:
   m_ObjectHideFlags: 0
@@ -6532,6 +6538,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: BigButton
       objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250524, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bdb4c1070ac2f644e86627f89c54b530,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc50eee40c683f446b890c37510de5b5, type: 3}
 --- !u!224 &648997157 stripped
@@ -6860,6 +6872,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6577135236500321345, guid: e827e2503364bec4d8320ce830a2b536,
         type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6577135236500321345, guid: e827e2503364bec4d8320ce830a2b536,
+        type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1720537363}
@@ -6867,6 +6884,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: OnClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6577135236500321345, guid: e827e2503364bec4d8320ce830a2b536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6577135236500321345, guid: e827e2503364bec4d8320ce830a2b536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 0}
@@ -7874,6 +7901,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1020747972}
   m_CullTransparentMesh: 0
+--- !u!1 &1032867128 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6074595332295250523, guid: fc50eee40c683f446b890c37510de5b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1579659035}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1032867129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032867128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30df5142303446741b1b3f65837dcc2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pen: {fileID: 1959030283}
+  fence: {fileID: 11400000, guid: 09c1e220ab8d02c4c852690f2886409c, type: 2}
+  bear: {fileID: 133035596}
 --- !u!224 &1270566335 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6577135236500321343, guid: e827e2503364bec4d8320ce830a2b536,
@@ -8357,12 +8405,12 @@ PrefabInstance:
     - target: {fileID: 2775294223127021427, guid: e7dddc948e3f69d408097f32545035bb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.48
+      value: 0.74
       objectReference: {fileID: 0}
     - target: {fileID: 2775294223127021427, guid: e7dddc948e3f69d408097f32545035bb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.5
+      value: 0.44
       objectReference: {fileID: 0}
     - target: {fileID: 2775294223127021427, guid: e7dddc948e3f69d408097f32545035bb,
         type: 3}
@@ -8533,6 +8581,52 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SmallButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250524, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 38471b89596875c4785e3970d98d975b,
+        type: 3}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1032867129}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250525, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc50eee40c683f446b890c37510de5b5, type: 3}
@@ -8945,8 +9039,8 @@ GameObject:
   - component: {fileID: 1959030281}
   - component: {fileID: 1959030283}
   - component: {fileID: 1959030282}
-  - component: {fileID: 1959030284}
   - component: {fileID: 1959030285}
+  - component: {fileID: 1959030284}
   m_Layer: 11
   m_Name: Barrier
   m_TagString: Untagged
@@ -9008,7 +9102,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 2, y: 2, z: 0}
+  m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -9023,16 +9117,7 @@ Tilemap:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1959030280}
   m_Enabled: 1
-  m_Tiles:
-  - first: {x: 1, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 3
-      m_TileSpriteIndex: 3
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 1
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741825
+  m_Tiles: {}
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 0
@@ -9041,8 +9126,8 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 58bc4c6a5b4319740b06bb8a9f069a77, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileSpriteArray:
   - m_RefCount: 0
     m_Data: {fileID: 0}
@@ -9050,27 +9135,27 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 21300000, guid: 8590e3aa5b60dd146a231fdea9ed69ab, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileMatrixArray:
-  - m_RefCount: 1
+  - m_RefCount: 0
     m_Data:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
+      e00: NaN
+      e01: -0.002068419
+      e02: -6.094024e-37
+      e03: NaN
+      e10: NaN
+      e11: 4.96e-43
+      e12: 4.93e-43
+      e13: NaN
+      e20: 8.060001e-25
+      e21: -6.094024e-37
+      e22: 1e-45
+      e23: -3.1920215e-21
+      e30: 4.5907e-41
+      e31: 4.93e-43
       e32: 0
-      e33: 1
+      e33: 6.9077e-41
   - m_RefCount: 0
     m_Data:
       e00: NaN
@@ -9093,8 +9178,8 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {r: 0.0000000010475638, g: 0.0000000010475638, b: 0.0000000010475638,
       a: 0.0000000010475638}
-  - m_RefCount: 1
-    m_Data: {r: 1, g: 1, b: 1, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 4.378311, g: 4.378311, b: 4.378311, a: 4.378311}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -9119,8 +9204,8 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!68 &1959030284
-EdgeCollider2D:
+--- !u!19719996 &1959030284
+TilemapCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -9133,13 +9218,8 @@ EdgeCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_EdgeRadius: 0
-  m_Points:
-  - {x: -0.8264091, y: -6.706909}
-  - {x: -0.87633765, y: -2.988226}
-  - {x: 3.8421996, y: -3.008105}
-  - {x: 3.8785474, y: -6.7626834}
-  - {x: -0.69385624, y: -6.7303247}
+  m_MaximumTileChangeCount: 1000
+  m_ExtrusionFactor: 0.00001
 --- !u!210 &1959030285
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -9496,6 +9576,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: StoreButton
       objectReference: {fileID: 0}
+    - target: {fileID: 6074595332295250524, guid: fc50eee40c683f446b890c37510de5b5,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d0d9fc9bafc8c0c428229e07ae4983ad,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc50eee40c683f446b890c37510de5b5, type: 3}
 --- !u!1001 &420706481358344573
