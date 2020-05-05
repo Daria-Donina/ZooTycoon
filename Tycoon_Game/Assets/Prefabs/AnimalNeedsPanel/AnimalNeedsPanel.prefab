@@ -717,7 +717,7 @@ GameObject:
   - component: {fileID: 8193213240629657535}
   - component: {fileID: 8193213240629657532}
   - component: {fileID: 8193213240629657529}
-  - component: {fileID: 8193213238953627530}
+  - component: {fileID: 8468990330378292424}
   m_Layer: 5
   m_Name: ExitButton
   m_TagString: Untagged
@@ -824,7 +824,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8193213238953627530}
+      - m_Target: {fileID: 8468990330378292424}
         m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
@@ -847,7 +847,7 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &8193213238953627530
+--- !u!114 &8468990330378292424
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -856,12 +856,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 8193213240629657539}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13952cbdad204f849b8bf7a51f610720, type: 3}
+  m_Script: {fileID: 11500000, guid: 850d08317a03e274c8be8e25898ebd97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  storePanel: {fileID: 8193213239605322696}
-  buttonsPanel: {fileID: 6249005699867573358, guid: 6feaf36d4283d034497007cbbf2c92a9,
+  panelToOpen: {fileID: 6249005699867573358, guid: 6feaf36d4283d034497007cbbf2c92a9,
     type: 3}
+  panelToClose: {fileID: 8193213239605322696}
 --- !u!1 &8193213240995807850
 GameObject:
   m_ObjectHideFlags: 0
