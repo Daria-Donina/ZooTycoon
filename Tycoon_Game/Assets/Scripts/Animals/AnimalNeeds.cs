@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UIElements;
+using Assets.Scripts.Animals.Entities;
+using System;
 
 public class AnimalNeeds : MonoBehaviour
 {
@@ -29,29 +31,22 @@ public class AnimalNeeds : MonoBehaviour
 
     private GameObject animalNeedsPanel;
 
-
-    [SerializeField]
-    private float welfare;
-
-    [SerializeField]
-    private float food;
-
-    [SerializeField]
-    private float water;
-
-    [SerializeField]
-    private float entertainment;
-
-    [SerializeField]
-    private float inhabitancy;
+    private AnimalInfo animal;
 
     // Start is called before the first frame update
     void Start()
     {
-        food = 100f;
-        water = 100f;
-        entertainment = 100f;
-        inhabitancy = 0;
+        Zoo.AnimalCount++;
+        animal = new AnimalInfo(Zoo.AnimalCount)
+        {
+            Food = 100f,
+            Water = 100f,
+            Entertainment = 100f,
+            Inhabitancy = 0,
+            Welfare = 100f
+        };
+
+        Zoo.AnimalWelfares.Add(animal.Welfare);
 
         CalculateInhabitancy();
 
@@ -87,31 +82,32 @@ public class AnimalNeeds : MonoBehaviour
     [System.Obsolete]
     private void FixedUpdate()
     {
-        if (food > 0)
+        if (animal.Food > 0)
         {
-            food -= 0.3f;
+            animal.Food -= 0.3f;
         }
 
-        if (water > 0)
+        if (animal.Water > 0)
         {
-            water -= 0.3f;
+            animal.Water -= 0.3f;
         }
 
-        if (entertainment > 0)
+        if (animal.Entertainment > 0)
         {
-            entertainment -= 0.3f;
+            animal.Entertainment -= 0.3f;
         }
 
         CalculateInhabitancy();
         CalculateWelfare();
 
+        Zoo.AnimalWelfares.Insert(animal.AnimalIndex, animal.Welfare);
         if (animalNeedsPanel.active)
         {
-            foodBar.SetValue((int)food);
-            inhabitancyBar.SetValue((int)inhabitancy);
-            entertainmentBar.SetValue((int)entertainment);
-            waterBar.SetValue((int)water);
-            welfareBar.SetValue((int)welfare);
+            foodBar.SetValue((int)animal.Food);
+            inhabitancyBar.SetValue((int)animal.Inhabitancy);
+            entertainmentBar.SetValue((int)animal.Entertainment);
+            waterBar.SetValue((int)animal.Water);
+            welfareBar.SetValue((int)animal.Welfare);
         }
     }
 
@@ -124,11 +120,11 @@ public class AnimalNeeds : MonoBehaviour
             panel.SetActive(false);
         }
 
-        foodBar.SetValue((int)food);
-        inhabitancyBar.SetValue((int)inhabitancy);
-        entertainmentBar.SetValue((int)entertainment);
-        waterBar.SetValue((int)water);
-        welfareBar.SetValue((int)welfare);
+        foodBar.SetValue((int)animal.Food);
+        inhabitancyBar.SetValue((int)animal.Inhabitancy);
+        entertainmentBar.SetValue((int)animal.Entertainment);
+        waterBar.SetValue((int)animal.Water);
+        welfareBar.SetValue((int)animal.Welfare);
 
         animalNeedsPanel.SetActive(true);
     }
@@ -148,37 +144,37 @@ public class AnimalNeeds : MonoBehaviour
         float inhabitancyPart;
 
         //Считаем вклад entertainment в welfare.
-        if (entertainment > 50f)
+        if (animal.Entertainment > 50f)
         {
             entertainmentPart = 25f;
         }
         else
         {
-            entertainmentPart = entertainment / 50f * 25f;
+            entertainmentPart = animal.Entertainment / 50f * 25f;
         }
 
         //Считаем вклад food в welfare.
-        if (food > 50f)
+        if (animal.Food > 50f)
         {
             foodPart = 25f;
         }
         else
         {
-            foodPart = food / 50f * 25f;
+            foodPart = animal.Food / 50f * 25f;
         }
 
         //Считаем вклад water в welfare.
-        if (water > 50f)
+        if (animal.Water > 50f)
         {
             waterPart = 25f;
         }
         else
         {
-            waterPart = water / 50f * 25f;
+            waterPart = animal.Water / 50f * 25f;
         }
 
-        inhabitancyPart = inhabitancy / 100f * 25f;
+        inhabitancyPart = animal.Inhabitancy / 100f * 25f;
 
-        welfare = foodPart + waterPart + entertainmentPart + inhabitancyPart;
+        animal.Welfare = foodPart + waterPart + entertainmentPart + inhabitancyPart;
     }
 }
