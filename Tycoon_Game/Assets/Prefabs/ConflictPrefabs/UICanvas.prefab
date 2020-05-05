@@ -196,7 +196,7 @@ GameObject:
   - component: {fileID: 2934449258571158670}
   m_Layer: 5
   m_Name: SelectThePlacePanel
-  m_TagString: Panel
+  m_TagString: SelectingPanel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -960,6 +960,11 @@ PrefabInstance:
       propertyPath: priceLabel
       value: 
       objectReference: {fileID: 8849790569157681525}
+    - target: {fileID: 1888342787111330483, guid: ef6c0ef90fd0369459f7107d774d530e,
+        type: 3}
+      propertyPath: selectingPanel
+      value: 
+      objectReference: {fileID: 2934449258571158666}
     - target: {fileID: 1888342787359605022, guid: ef6c0ef90fd0369459f7107d774d530e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1263,6 +1268,11 @@ PrefabInstance:
       propertyPath: priceLabel
       value: 
       objectReference: {fileID: 8849790569307973046}
+    - target: {fileID: 1340990598989585798, guid: 67a6431dd2651cf47a03a9e3a7524101,
+        type: 3}
+      propertyPath: selectingPanel
+      value: 
+      objectReference: {fileID: 2934449258571158666}
     - target: {fileID: 1340990599234248264, guid: 67a6431dd2651cf47a03a9e3a7524101,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1406,6 +1416,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2934449258167262655}
     m_Modifications:
+    - target: {fileID: 658885819330740883, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
+        type: 3}
+      propertyPath: selectingPanel
+      value: 
+      objectReference: {fileID: 2934449258571158666}
     - target: {fileID: 1667720673701282325, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
         type: 3}
       propertyPath: m_Name
@@ -1526,15 +1541,40 @@ PrefabInstance:
       propertyPath: panelToOpen
       value: 
       objectReference: {fileID: 2934449258571158666}
+    - target: {fileID: 3637534586819624799, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
+        type: 3}
+      propertyPath: selectingPanel
+      value: 
+      objectReference: {fileID: 2934449258571158666}
     - target: {fileID: 4857593275299848165, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 15.516998
       objectReference: {fileID: 0}
+    - target: {fileID: 5588233457085882126, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -25.900002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6907417999939887478, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
+        type: 3}
+      propertyPath: selectingPanel
+      value: 
+      objectReference: {fileID: 2934449258571158666}
     - target: {fileID: 7378362713309443566, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 6.5699997
+      value: 6.569992
+      objectReference: {fileID: 0}
+    - target: {fileID: 7908384622066532335, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7908384622066532335, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 11.547001
       objectReference: {fileID: 0}
     - target: {fileID: 8416420042293146886, guid: 5d4a793461ad22c44ba6c0c15d9693ee,
         type: 3}
@@ -1828,6 +1868,11 @@ PrefabInstance:
       propertyPath: priceLabel
       value: 
       objectReference: {fileID: 8849790568777876224}
+    - target: {fileID: 4730874972870155933, guid: 6f6b866535742514381cb6bcd50396ab,
+        type: 3}
+      propertyPath: selectingPanel
+      value: 
+      objectReference: {fileID: 2934449258571158666}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f6b866535742514381cb6bcd50396ab, type: 3}
 --- !u!1 &2934449258496530641 stripped

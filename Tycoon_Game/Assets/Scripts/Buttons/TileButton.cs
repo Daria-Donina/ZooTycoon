@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class TileButton : MonoBehaviour
 {
     [SerializeField]
-    private GameObject panelToOpen;
+    private GameObject selectingPanel;
 
     [SerializeField]
     private GameObject panelToClose;
@@ -39,7 +39,7 @@ public class TileButton : MonoBehaviour
         ChooseWhereToPut.Model = new SelectingPanel(tilemap, tile, panelToClose);
 
         Zoo.Money -= int.Parse(priceLabel.text);
-        panelToOpen.gameObject.SetActive(true);
+        selectingPanel.gameObject.SetActive(true);
         panelToClose.gameObject.SetActive(false);
     }
 }
