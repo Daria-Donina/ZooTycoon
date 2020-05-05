@@ -8,6 +8,9 @@ namespace Assets.Scripts.Money.Entities
 {
     public static class ChooseMoneyAmount
     {
-        private static 
+        private static int animalAmount;
+        private static int animalWelfare;
+
+
     }
 }
