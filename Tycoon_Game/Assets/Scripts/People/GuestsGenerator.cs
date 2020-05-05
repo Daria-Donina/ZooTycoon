@@ -71,7 +71,7 @@ public class GuestsGenerator : MonoBehaviour
         }
     }
 
-    private int GenerateNumberOfGuests() => (int)Math.Exp(localAnimalCount);
+    private int GenerateNumberOfGuests() => (int)(Math.Exp(localAnimalCount) * Zoo.WelfareCoefficient);
 
     private void GenerateGuest()
     {

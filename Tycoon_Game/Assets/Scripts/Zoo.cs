@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class Zoo : MonoBehaviour
 {
-    public static int PeopleCount { get; set; }
-    public static int AnimalCount { get; set; }
+    public static int PeopleCount { get; set; } = 0;
+    public static int AnimalCount { get; set; } = 0;
 
     public static int Money { get; set; } = 500;
 
@@ -22,20 +22,20 @@ public class Zoo : MonoBehaviour
 
         foreach (var welfare in AnimalWelfares)
         {
-            if (welfare < 10)
+            if (welfare < 10f)
             {
                 number += 4;
-                sum += welfare * 5;
+                sum += welfare * 5f;
             }
-            else if (welfare < 20)
+            else if (welfare < 20f)
             {
                 number += 2;
-                sum += welfare * 3;
+                sum += welfare * 3f;
             }
-            else if (welfare < 30)
+            else if (welfare < 30f)
             {
                 number += 1;
-                sum += welfare * 2;
+                sum += welfare * 2f;
             }
             else
             {
@@ -43,6 +43,6 @@ public class Zoo : MonoBehaviour
             }
         }
 
-        WelfareCoefficient = sum / (number * 100);
+        WelfareCoefficient = sum / (number * 100f);
     }
 }

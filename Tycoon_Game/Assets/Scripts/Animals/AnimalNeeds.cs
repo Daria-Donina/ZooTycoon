@@ -34,16 +34,16 @@ public class AnimalNeeds : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Zoo.AnimalCount++;
         animal = new AnimalInfo(Zoo.AnimalCount)
         {
             Food = 100f,
             Water = 100f,
             Entertainment = 100f,
-            Inhabitancy = 0,
+            Inhabitancy = 100f,
             Welfare = 100f
         };
 
+        Zoo.AnimalCount++;
         Zoo.AnimalWelfares.Add(animal.Welfare);
 
         CalculateInhabitancy();
@@ -129,6 +129,7 @@ public class AnimalNeeds : MonoBehaviour
 
     public void CalculateInhabitancy()
     {
+        //to do
     }
 
     /// <summary>
