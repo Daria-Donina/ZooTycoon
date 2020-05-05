@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assets.Scripts.Money.Entities;
+using System;
 using UnityEngine;
 
 public class GuestsGenerator : MonoBehaviour
@@ -78,5 +79,8 @@ public class GuestsGenerator : MonoBehaviour
 
         var startedPosition = startedPositions[UnityEngine.Random.Range(0, 2)];
         Instantiate(guestPrefab, startedPosition, transform.rotation);
+        PayForTicket();
     }
+
+    private void PayForTicket() => Zoo.Money += MoneyAmount.Choose();
 }

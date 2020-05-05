@@ -4,6 +4,6 @@
     {
         private const int MoneyForOneAnimal = 10;
 
-        public static int Choose() => MoneyForOneAnimal * Zoo.AnimalCount * (int)Zoo.WelfareCoefficient;
+        public static int Choose() => (int)(MoneyForOneAnimal * Zoo.AnimalCount * Zoo.WelfareCoefficient);
     }
 }
