@@ -16,10 +16,8 @@ public class HumanMoving : MonoBehaviour
 
     private Vector3Int currentCellPosition;
 
-    [SerializeField]
     private GridLayout grid;
 
-    [SerializeField]
     private Tilemap tilemap;
 
     // Start is called before the first frame update

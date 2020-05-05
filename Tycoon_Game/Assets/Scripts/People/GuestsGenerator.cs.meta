@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8dec1ef4cd09b214e9ac841ccc00f183
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grid: {instanceID: 0}
+  - tilemap: {instanceID: 0}
+  - human1: {fileID: 4060230147745842984, guid: 519f0aac9ed585048b8f447c539433f7,
+      type: 3}
+  - human2: {fileID: 658476732297247776, guid: 2446bd4d315bfd04d8eef2d7589a2d45, type: 3}
+  - human3: {fileID: 6408292773188123276, guid: e78e6e6b9d2566d40bad71cbff08b086,
+      type: 3}
+  - human4: {fileID: 8596792852198247010, guid: aa5cb71a8566ae54c95284c834dd9b0e,
+      type: 3}
+  - human5: {fileID: 7093388825749592240, guid: 1d642ca1bf4581e42b10e138d5b96a18,
+      type: 3}
+  - human6: {fileID: 322922844301970758, guid: 37d3e68fd4194ef42bed3eef9d861504, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class Zoo : MonoBehaviour
@@ -13,12 +12,8 @@ public class Zoo : MonoBehaviour
 
     public static List<float> AnimalWelfares { get; set; } = new List<float>();
 
-
     // Update is called once per frame
-    void Update()
-    {
-        CalculateWelfareCoefficient();
-    }
+    void Update() => CalculateWelfareCoefficient();
 
     private static void CalculateWelfareCoefficient()
     {
@@ -48,6 +43,6 @@ public class Zoo : MonoBehaviour
             }
         }
 
-        WelfareCoefficient = sum / number * 100;
+        WelfareCoefficient = sum / (number * 100);
     }
 }
