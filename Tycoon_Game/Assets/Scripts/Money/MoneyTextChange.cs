@@ -11,6 +11,6 @@ public class MoneyTextChange : MonoBehaviour
 
     private void Update()
     {
-        moneyText.text = Money.Amount.ToString();
+        moneyText.text = Zoo.Money.ToString();
     }
 }
