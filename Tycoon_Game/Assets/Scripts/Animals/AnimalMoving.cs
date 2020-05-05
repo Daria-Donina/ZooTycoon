@@ -64,6 +64,11 @@ public class AnimalMoving : MonoBehaviour
         }
     }
 
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        StandStill();
+    }
+
     /// <summary>
     /// Перечисление чисел, каждое из которых соответствует своей анимации по Animation State.
     /// </summary>
