@@ -30,8 +30,6 @@ public class CameraController : MonoBehaviour
         {
             float positionX = camera.ScreenToWorldPoint(Input.mousePosition).x - startPosition.x;
             float positionY = camera.ScreenToWorldPoint(Input.mousePosition).y - startPosition.y;
-            //transform.position = new Vector3(Mathf.Clamp(transform.position.x - positionX, -7.41f, 6.41f),
-            //    Mathf.Clamp(transform.position.y - positionY, -10.65f, 7.65f), transform.position.z);
             targetPositionX = Mathf.Clamp(transform.position.x - positionX, -7.41f, 6.41f);
             targetPositionY = Mathf.Clamp(transform.position.y - positionY, -10.65f, 7.65f);
 

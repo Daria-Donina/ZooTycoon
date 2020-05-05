@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AnimalMoving : MonoBehaviour
 {
@@ -34,11 +31,11 @@ public class AnimalMoving : MonoBehaviour
         moving[4] = StandStill;
 
         //Случайно выбирается направление, куда пойдет животное сначала.
-        int randomIndex = UnityEngine.Random.Range(0, 5);
+        int randomIndex = Random.Range(0, 5);
         moving[randomIndex].Invoke();
 
         //Случайно выбирается промежуток времени, в течение которого животное не будет менять направление движения.
-        waitTime = UnityEngine.Random.Range(1, 6);
+        waitTime = Random.Range(1, 6);
         timer =  0.0f;
     }
 
@@ -56,11 +53,11 @@ public class AnimalMoving : MonoBehaviour
             timer -= waitTime;
 
             //Случайно выбирается направление, куда пойдет животное.
-            int randomIndex = UnityEngine.Random.Range(0, 5);
+            int randomIndex = Random.Range(0, 5);
             moving[randomIndex].Invoke();
 
             //Случайно выбирается промежуток времени, в течение которого животное не будет менять направление движения.
-            waitTime = UnityEngine.Random.Range(1, 6);
+            waitTime = Random.Range(1, 6);
         }
     }
 

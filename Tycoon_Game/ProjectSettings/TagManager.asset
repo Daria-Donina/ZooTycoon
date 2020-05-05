@@ -9,7 +9,7 @@ TagManager:
   - Panel
   - Animal
   - Grid
-  - Food
+  - People
   layers:
   - Default
   - TransparentFX

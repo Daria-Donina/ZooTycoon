@@ -1,7 +1,5 @@
 ﻿using UnityEngine;
-using UnityEngine.UIElements;
 using Assets.Scripts.Animals.Entities;
-using System;
 
 public class AnimalNeeds : MonoBehaviour
 {
