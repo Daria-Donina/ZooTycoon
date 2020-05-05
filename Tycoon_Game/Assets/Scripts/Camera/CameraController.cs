@@ -17,7 +17,7 @@ public class CameraController : MonoBehaviour
     {
         camera = GetComponent<Camera>();
         targetPositionX = transform.position.x;
-        targetPositionX = transform.position.y;
+        targetPositionY = transform.position.y;
     }
 
     private void Update()

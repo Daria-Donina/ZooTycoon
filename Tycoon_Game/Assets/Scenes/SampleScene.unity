@@ -253,11 +253,6 @@ PrefabInstance:
       propertyPath: tilemap
       value: 
       objectReference: {fileID: 1147219076}
-    - target: {fileID: 8849790568931195736, guid: f6aaecafe5de2c846988d7dd1ec20fbd,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -119.899994
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6aaecafe5de2c846988d7dd1ec20fbd, type: 3}
 --- !u!1 &440358445
