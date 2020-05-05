@@ -7,7 +7,7 @@ public class Zoo : MonoBehaviour
     public static int PeopleCount { get; set; }
     public static int AnimalCount { get; set; }
 
-    public static int Money { get; set; } = 100;
+    public static int Money { get; set; } = 500;
 
     public static float WelfareCoefficient { get; set; }
 
