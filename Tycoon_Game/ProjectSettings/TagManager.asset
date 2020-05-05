@@ -10,6 +10,7 @@ TagManager:
   - Animal
   - Grid
   - Food
+  - SelectingPanel
   layers:
   - Default
   - TransparentFX
