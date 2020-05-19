@@ -36,7 +36,7 @@ public class TileButton : MonoBehaviour
 
     public void OnClick()
     {
-        ChooseWhereToPut.Model = new SelectingPanel(tilemap, tile, panelToClose);
+        PutObject.Model = new SelectingPanel(tilemap, tile, panelToClose);
 
         Zoo.Money -= int.Parse(priceLabel.text);
         selectingPanel.gameObject.SetActive(true);

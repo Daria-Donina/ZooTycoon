@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-public class ChooseWhereToPut : MonoBehaviour
+public class PutObject : MonoBehaviour
 {
     [SerializeField]
     private GameObject selectingPanel;

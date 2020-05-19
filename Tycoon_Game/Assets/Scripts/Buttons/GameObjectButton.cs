@@ -33,7 +33,7 @@ public class GameObjectButton : MonoBehaviour
 
     public void OnClick()
     {
-        ChooseWhereToPut.Model = new SelectingPanel(prefab, panelToClose);
+        PutObject.Model = new SelectingPanel(prefab, panelToClose);
 
         Zoo.Money -= int.Parse(priceLabel.text);
         selectingPanel.gameObject.SetActive(true);

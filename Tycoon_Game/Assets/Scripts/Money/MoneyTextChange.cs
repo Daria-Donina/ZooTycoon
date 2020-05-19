@@ -9,8 +9,5 @@ public class MoneyTextChange : MonoBehaviour
     [SerializeField]
     private Text moneyText;
 
-    private void Update()
-    {
-        moneyText.text = Zoo.Money.ToString();
-    }
+    private void Update() => moneyText.text = Zoo.Money.ToString();
 }
