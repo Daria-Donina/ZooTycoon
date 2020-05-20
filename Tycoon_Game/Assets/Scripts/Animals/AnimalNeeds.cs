@@ -141,6 +141,7 @@ public class AnimalNeeds : MonoBehaviour
             {
                 foodBar.SetValue((int)animal.Food);
             }
+            gameObject.SetActive(false);
         }
         if (gameObject.CompareTag("Water"))
         {
@@ -149,6 +150,7 @@ public class AnimalNeeds : MonoBehaviour
             {
                 waterBar.SetValue((int)animal.Water);
             }
+            gameObject.SetActive(false);
         }
         if (gameObject.CompareTag("Entertainment"))
         {
@@ -157,9 +159,8 @@ public class AnimalNeeds : MonoBehaviour
             {
                 entertainmentBar.SetValue((int)animal.Entertainment);
             }
+            gameObject.SetActive(false);
         }
-
-        gameObject.SetActive(false);
     }
 
     public void CalculateInhabitancy()
