@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -4896952383646570682, guid: 5e08376676d2e3e469d7833af0610a18,
+        type: 3}
+      propertyPath: panelForButtons
+      value: 
+      objectReference: {fileID: 4527264991026980742, guid: f9ae79db379ae8d48aceb62374e8178b,
+        type: 3}
     - target: {fileID: 7275769718401691213, guid: 5e08376676d2e3e469d7833af0610a18,
         type: 3}
       propertyPath: m_Offset.y

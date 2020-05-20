@@ -111,20 +111,23 @@ public class AnimalNeeds : MonoBehaviour
 
     private void OnMouseDown()
     {
-        var panels = GameObject.FindGameObjectsWithTag("Panel");
-
-        foreach (var panel in panels)
+        if (GameObject.FindGameObjectWithTag("StorePanel") != null)
         {
-            panel.SetActive(false);
+            var panels = GameObject.FindGameObjectsWithTag("Panel");
+
+            foreach (var panel in panels)
+            {
+                panel.SetActive(false);
+            }
+
+            foodBar.SetValue((int)animal.Food);
+            inhabitancyBar.SetValue((int)animal.Inhabitancy);
+            entertainmentBar.SetValue((int)animal.Entertainment);
+            waterBar.SetValue((int)animal.Water);
+            welfareBar.SetValue((int)animal.Welfare);
+
+            animalNeedsPanel.SetActive(true);
         }
-
-        foodBar.SetValue((int)animal.Food);
-        inhabitancyBar.SetValue((int)animal.Inhabitancy);
-        entertainmentBar.SetValue((int)animal.Entertainment);
-        waterBar.SetValue((int)animal.Water);
-        welfareBar.SetValue((int)animal.Welfare);
-
-        animalNeedsPanel.SetActive(true);
     }
 
     public void CalculateInhabitancy()

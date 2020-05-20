@@ -189,8 +189,5 @@ MonoBehaviour:
     type: 3}
   animalNeedsPanelPrefab: {fileID: 8193213239605322696, guid: 438ccf6959b674140a66deb2c657bbee,
     type: 3}
-  welfare: 0
-  food: 0
-  water: 0
-  entertainment: 0
-  inhabitancy: 0
+  panelForButtons: {fileID: 4527264991026980742, guid: f9ae79db379ae8d48aceb62374e8178b,
+    type: 3}
