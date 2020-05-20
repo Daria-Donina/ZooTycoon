@@ -13,6 +13,8 @@ TagManager:
   - SelectingPanel
   - Food
   - StorePanel
+  - Water
+  - Entertainment
   layers:
   - Default
   - TransparentFX
