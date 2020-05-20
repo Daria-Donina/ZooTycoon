@@ -1,8 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using Assets.Scripts.Buttons.Entities;
-using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 
 public class GameObjectButton : MonoBehaviour

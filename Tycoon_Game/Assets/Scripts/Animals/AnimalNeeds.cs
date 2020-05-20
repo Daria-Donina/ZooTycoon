@@ -130,6 +130,38 @@ public class AnimalNeeds : MonoBehaviour
         }
     }
 
+    [System.Obsolete]
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        var gameObject = collision.gameObject;
+        if (gameObject.CompareTag("Food"))
+        {
+            animal.Food = 100;
+            if (animalNeedsPanel.active)
+            {
+                foodBar.SetValue((int)animal.Food);
+            }
+        }
+        if (gameObject.CompareTag("Water"))
+        {
+            animal.Water = 100;
+            if (animalNeedsPanel.active)
+            {
+                waterBar.SetValue((int)animal.Water);
+            }
+        }
+        if (gameObject.CompareTag("Entertainment"))
+        {
+            animal.Entertainment = 100;
+            if (animalNeedsPanel.active)
+            {
+                entertainmentBar.SetValue((int)animal.Entertainment);
+            }
+        }
+
+        gameObject.SetActive(false);
+    }
+
     public void CalculateInhabitancy()
     {
         //to do
