@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using Assets.Scripts.Animals.Entities;
+using UnityEngine.UI;
 
 public class AnimalNeeds : MonoBehaviour
 {
@@ -51,28 +52,37 @@ public class AnimalNeeds : MonoBehaviour
         animalNeedsPanel = Instantiate(animalNeedsPanelPrefab, transform.position, transform.rotation) as GameObject;
         animalNeedsPanel.transform.SetParent(GameObject.FindGameObjectWithTag("Canvas").transform, false);
 
-        var position = transform.position;
-        position.x = -282;
-        position.y = 30;
-        foodBar = Instantiate(foodBarPrefab, position, transform.rotation) as Bar;
-        foodBar.transform.SetParent(animalNeedsPanel.transform, false);
+        foodBar = Instantiate(foodBarPrefab, transform.position, transform.rotation) as Bar;
+        inhabitancyBar = Instantiate(inhabitancyBarPrefab, transform.position, transform.rotation) as Bar;
+        entertainmentBar = Instantiate(entertainmentBarPrefab, transform.position, transform.rotation) as Bar;
+        waterBar = Instantiate(waterBarPrefab, transform.position, transform.rotation) as Bar;
+        welfareBar = Instantiate(welfareBarPrefab, transform.position, transform.rotation) as Bar;
 
-        position.x = -67;
-        inhabitancyBar = Instantiate(inhabitancyBarPrefab, position, transform.rotation) as Bar;
-        inhabitancyBar.transform.SetParent(animalNeedsPanel.transform, false);
+        var children = animalNeedsPanel.GetComponentsInChildren(typeof(HorizontalLayoutGroup), true);
+        GameObject layoutTopForBars = null;
+        GameObject layoutBottomForBars = null;
+        GameObject welfareLayoutBar = null;
 
-        position.y = -35;
-        entertainmentBar = Instantiate(entertainmentBarPrefab, position, transform.rotation) as Bar;
-        entertainmentBar.transform.SetParent(animalNeedsPanel.transform, false);
-
-        position.x = -282;
-        waterBar = Instantiate(waterBarPrefab, position, transform.rotation) as Bar;
-        waterBar.transform.SetParent(animalNeedsPanel.transform, false);
-
-        position.x = 151;
-        position.y = -3;
-        welfareBar = Instantiate(welfareBarPrefab, position, transform.rotation) as Bar;
-        welfareBar.transform.SetParent(animalNeedsPanel.transform, false);
+        foreach (var child in children)
+        {
+            if (child.gameObject.name == "LayoutTopForBars")
+            {
+                layoutTopForBars = child.gameObject;
+            }
+            if (child.gameObject.name == "LayoutBottomForBars")
+            {
+                layoutBottomForBars = child.gameObject;
+            }
+            if (child.gameObject.name == "WelfareLayoutBar")
+            {
+                welfareLayoutBar = child.gameObject;
+            }
+        }
+        foodBar.transform.SetParent(layoutTopForBars.transform, false);
+        inhabitancyBar.transform.SetParent(layoutTopForBars.transform, false);
+        waterBar.transform.SetParent(layoutBottomForBars.transform, false);
+        entertainmentBar.transform.SetParent(layoutBottomForBars.transform, false);
+        welfareBar.transform.SetParent(welfareLayoutBar.transform, false);
 
         animalNeedsPanel.SetActive(false);
     }

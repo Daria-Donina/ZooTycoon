@@ -12,7 +12,7 @@ public class OpenCloseButton : MonoBehaviour
 
     public void OnClick()
     {
-        panelToOpen.gameObject.SetActive(true);
+        panelToOpen?.gameObject.SetActive(true);
         panelToClose.gameObject.SetActive(false);
     }
 }
