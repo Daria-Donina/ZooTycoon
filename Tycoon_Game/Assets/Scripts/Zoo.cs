@@ -5,6 +5,7 @@ public class Zoo : MonoBehaviour
 {
     public static int PeopleCount { get; set; } = 0;
     public static int AnimalCount { get; set; } = 0;
+    public static int RoadTilesCount { get; set; } = 6;
 
     public static int Money { get; set; } = 500;
 

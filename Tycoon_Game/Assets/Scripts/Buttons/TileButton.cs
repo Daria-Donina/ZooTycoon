@@ -36,6 +36,11 @@ public class TileButton : MonoBehaviour
     {
         PutObject.Model = new SelectingPanel(tilemap, tile, panelToClose);
 
+        if (tilemap.gameObject.name == "Road")
+        {
+            ++Zoo.RoadTilesCount;
+        }
+
         Zoo.Money -= int.Parse(priceLabel.text);
         selectingPanel.gameObject.SetActive(true);
         panelToClose.gameObject.SetActive(false);

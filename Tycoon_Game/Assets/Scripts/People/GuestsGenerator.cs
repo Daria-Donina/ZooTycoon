@@ -71,7 +71,18 @@ public class GuestsGenerator : MonoBehaviour
         }
     }
 
-    private int GenerateNumberOfGuests() => (int)(Math.Exp(localAnimalCount) * Zoo.WelfareCoefficient);
+    private int GenerateNumberOfGuests()
+    {
+        if (Zoo.RoadTilesCount <= Zoo.PeopleCount * 3)
+        {
+            return Zoo.PeopleCount;
+        }
+        else
+        {
+            return (int)(Math.Exp(localAnimalCount) * Zoo.WelfareCoefficient);
+        }
+    }
+        
 
     private void GenerateGuest()
     {
