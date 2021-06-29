@@ -12,7 +12,14 @@ public class StoreButton : MonoBehaviour
 
     public void OnClick()
     {
-        buttonsPanel.gameObject.SetActive(false);
-        storePanel.gameObject.SetActive(true);
+        var panels = GameObject.FindGameObjectsWithTag("Panel");
+
+        foreach (var panel in panels)
+        {
+            panel.SetActive(false);
+        }
+
+        storePanel.SetActive(true);
+        buttonsPanel.SetActive(false);
     }
 }

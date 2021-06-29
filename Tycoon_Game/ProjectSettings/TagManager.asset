@@ -5,6 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Canvas
+  - Panel
+  - Animal
+  - Grid
+  - People
+  - SelectingPanel
+  - Food
+  - StorePanel
+  - Water
+  - Entertainment
   layers:
   - Default
   - TransparentFX
@@ -19,7 +29,7 @@ TagManager:
   - People
   - Objects
   - Animals
-  - 
+  - NeedsItems
   - 
   - 
   - 
@@ -53,6 +63,9 @@ TagManager:
     locked: 0
   - name: Animals
     uniqueID: 4189255343
+    locked: 0
+  - name: Objects
+    uniqueID: 3597590591
     locked: 0
   - name: UI
     uniqueID: 2870920845
